@@ -1,0 +1,5119 @@
+[
+  {
+    "difficulty": 1,
+    "word1": "big",
+    "def1": "of considerable size or extent",
+    "word2": "large",
+    "def2": "of greater than average size, extent, or capacity"
+  },
+  {
+    "difficulty": 2,
+    "word1": "small",
+    "def1": "of a size that is less than normal or usual",
+    "word2": "tiny",
+    "def2": "very small"
+  },
+  {
+    "difficulty": 3,
+    "word1": "happy",
+    "def1": "feeling or showing pleasure or contentment",
+    "word2": "glad",
+    "def2": "feeling joy or pleasure"
+  },
+  {
+    "difficulty": 4,
+    "word1": "sad",
+    "def1": "feeling or showing sorrow",
+    "word2": "unhappy",
+    "def2": "not happy; displeased"
+  },
+  {
+    "difficulty": 5,
+    "word1": "fast",
+    "def1": "moving or capable of moving at high speed",
+    "word2": "quick",
+    "def2": "moving with speed or rapidity"
+  },
+  {
+    "difficulty": 6,
+    "word1": "slow",
+    "def1": "moving or operating at a low speed",
+    "word2": "leisurely",
+    "def2": "acting or done in a relaxed and unhurried way"
+  },
+  {
+    "difficulty": 7,
+    "word1": "hot",
+    "def1": "having a high degree of heat or a high temperature",
+    "word2": "warm",
+    "def2": "of or at a fairly or comfortably high temperature"
+  },
+  {
+    "difficulty": 8,
+    "word1": "cold",
+    "def1": "of or at a low or relatively low temperature",
+    "word2": "chilly",
+    "def2": "uncomfortably cool or cold"
+  },
+  {
+    "difficulty": 9,
+    "word1": "wet",
+    "def1": "covered or saturated with water or another liquid",
+    "word2": "damp",
+    "def2": "slightly moist"
+  },
+  {
+    "difficulty": 10,
+    "word1": "dry",
+    "def1": "free from moisture or liquid",
+    "word2": "arid",
+    "def2": "lacking sufficient water or rainfall"
+  },
+  {
+    "difficulty": 11,
+    "word1": "loud",
+    "def1": "producing much noise",
+    "word2": "noisy",
+    "def2": "making a lot of sound, especially in a way that is unpleasant"
+  },
+  {
+    "difficulty": 12,
+    "word1": "quiet",
+    "def1": "making little or no noise",
+    "word2": "silent",
+    "def2": "not making or accompanied by any sound"
+  },
+  {
+    "difficulty": 13,
+    "word1": "hard",
+    "def1": "solid, firm, and resistant to pressure",
+    "word2": "firm",
+    "def2": "having a solid structure that holds its shape"
+  },
+  {
+    "difficulty": 14,
+    "word1": "soft",
+    "def1": "easy to mold, cut, compress, or fold",
+    "word2": "plush",
+    "def2": "soft and luxurious"
+  },
+  {
+    "difficulty": 15,
+    "word1": "light",
+    "def1": "having little weight",
+    "word2": "weightless",
+    "def2": "having or appearing to have no weight"
+  },
+  {
+    "difficulty": 16,
+    "word1": "heavy",
+    "def1": "of great weight; difficult to lift or move",
+    "word2": "weighty",
+    "def2": "heavy or substantial"
+  },
+  {
+    "difficulty": 17,
+    "word1": "new",
+    "def1": "not existing before; made, introduced, or discovered recently",
+    "word2": "fresh",
+    "def2": "recently created, experienced, or obtained"
+  },
+  {
+    "difficulty": 18,
+    "word1": "old",
+    "def1": "having lived for a long time; no longer young",
+    "word2": "aged",
+    "def2": "having been in existence for a specified period of time"
+  },
+  {
+    "difficulty": 19,
+    "word1": "good",
+    "def1": "to be desired or approved of",
+    "word2": "excellent",
+    "def2": "extremely good; outstanding"
+  },
+  {
+    "difficulty": 20,
+    "word1": "bad",
+    "def1": "of poor quality or a low standard",
+    "word2": "poor",
+    "def2": "of a low or inferior standard or quality"
+  },
+  {
+    "difficulty": 21,
+    "word1": "brave",
+    "def1": "ready to face and endure danger or pain",
+    "word2": "courageous",
+    "def2": "not deterred by danger or pain; showing courage"
+  },
+  {
+    "difficulty": 22,
+    "word1": "afraid",
+    "def1": "feeling fear or anxiety",
+    "word2": "scared",
+    "def2": "fearful or frightened"
+  },
+  {
+    "difficulty": 23,
+    "word1": "rich",
+    "def1": "having a great deal of money or assets",
+    "word2": "wealthy",
+    "def2": "having a great deal of money, resources, or assets"
+  },
+  {
+    "difficulty": 24,
+    "word1": "poor",
+    "def1": "lacking sufficient money to live at a standard considered comfortable or normal in society",
+    "word2": "impoverished",
+    "def2": "made poor"
+  },
+  {
+    "difficulty": 25,
+    "word1": "smart",
+    "def1": "having or showing a quick-witted intelligence",
+    "word2": "intelligent",
+    "def2": "having or showing intelligence"
+  },
+  {
+    "difficulty": 26,
+    "word1": "stupid",
+    "def1": "lacking intelligence or common sense",
+    "word2": "foolish",
+    "def2": "lacking good sense or judgment"
+  },
+  {
+    "difficulty": 27,
+    "word1": "strong",
+    "def1": "having the power to move heavy weights or perform other physically demanding tasks",
+    "word2": "powerful",
+    "def2": "having great power or strength"
+  },
+  {
+    "difficulty": 28,
+    "word1": "weak",
+    "def1": "lacking the power to perform physically demanding tasks",
+    "word2": "feeble",
+    "def2": "lacking physical strength, especially as a result of age or illness"
+  },
+  {
+    "difficulty": 29,
+    "word1": "begin",
+    "def1": "to start something",
+    "word2": "commence",
+    "def2": "to start or initiate something"
+  },
+  {
+    "difficulty": 30,
+    "word1": "end",
+    "def1": "to come to a final point or conclusion",
+    "word2": "finish",
+    "def2": "to bring a task or activity to a conclusion"
+  },
+  {
+    "difficulty": 31,
+    "word1": "beautiful",
+    "def1": "pleasing the senses or mind aesthetically",
+    "word2": "attractive",
+    "def2": "pleasing or appealing to look at"
+  },
+  {
+    "difficulty": 32,
+    "word1": "ugly",
+    "def1": "unpleasant or repulsive, especially in appearance",
+    "word2": "unattractive",
+    "def2": "not pleasing or appealing to look at"
+  },
+  {
+    "difficulty": 33,
+    "word1": "clean",
+    "def1": "free from dirt, marks, or stains",
+    "word2": "spotless",
+    "def2": "completely clean and free from dirt"
+  },
+  {
+    "difficulty": 34,
+    "word1": "dirty",
+    "def1": "covered or marked with an unclean substance",
+    "word2": "soiled",
+    "def2": "made dirty or impure"
+  },
+  {
+    "difficulty": 35,
+    "word1": "tall",
+    "def1": "of great or more than average height",
+    "word2": "lofty",
+    "def2": "of imposing height"
+  },
+  {
+    "difficulty": 36,
+    "word1": "short",
+    "def1": "measuring a small distance from end to end",
+    "word2": "brief",
+    "def2": "of short duration"
+  },
+  {
+    "difficulty": 37,
+    "word1": "wide",
+    "def1": "of great or more than average width",
+    "word2": "broad",
+    "def2": "having a large distance from one side to the other"
+  },
+  {
+    "difficulty": 38,
+    "word1": "narrow",
+    "def1": "of small width in relation to length",
+    "word2": "slim",
+    "def2": "of small width or thickness"
+  },
+  {
+    "difficulty": 39,
+    "word1": "deep",
+    "def1": "extending far down from the top or surface",
+    "word2": "profound",
+    "def2": "very great or intense"
+  },
+  {
+    "difficulty": 40,
+    "word1": "shallow",
+    "def1": "of little depth",
+    "word2": "superficial",
+    "def2": "existing or occurring at or on the surface"
+  },
+  {
+    "difficulty": 41,
+    "word1": "early",
+    "def1": "happening or done before the usual or expected time",
+    "word2": "premature",
+    "def2": "occurring or done before a usual or proper time"
+  },
+  {
+    "difficulty": 42,
+    "word1": "late",
+    "def1": "doing something or taking place after the expected time",
+    "word2": "tardy",
+    "def2": "delaying or delayed beyond the right or expected time"
+  },
+  {
+    "difficulty": 43,
+    "word1": "easy",
+    "def1": "achieved without great effort",
+    "word2": "effortless",
+    "def2": "requiring no physical or mental exertion"
+  },
+  {
+    "difficulty": 44,
+    "word1": "difficult",
+    "def1": "needing much effort or skill to accomplish",
+    "word2": "challenging",
+    "def2": "testing one's abilities; demanding"
+  },
+  {
+    "difficulty": 45,
+    "word1": "near",
+    "def1": "at or to a short distance away",
+    "word2": "close",
+    "def2": "only a short distance away or apart in space or time"
+  },
+  {
+    "difficulty": 46,
+    "word1": "far",
+    "def1": "at, to, or by a great distance",
+    "word2": "distant",
+    "def2": "far away in space or time"
+  },
+  {
+    "difficulty": 47,
+    "word1": "strange",
+    "def1": "unusual or surprising in a way that is unsettling or hard to understand",
+    "word2": "odd",
+    "def2": "different from what is usual or expected"
+  },
+  {
+    "difficulty": 48,
+    "word1": "familiar",
+    "def1": "well known from long or close association",
+    "word2": "recognized",
+    "def2": "identified from previous encounters or knowledge"
+  },
+  {
+    "difficulty": 49,
+    "word1": "thick",
+    "def1": "with opposite sides or surfaces that are a great or relatively great distance apart",
+    "word2": "dense",
+    "def2": "having the constituent parts closely compacted together"
+  },
+  {
+    "difficulty": 50,
+    "word1": "thin",
+    "def1": "with opposite sides or surfaces that are a small distance apart",
+    "word2": "slender",
+    "def2": "gracefully thin"
+  },
+  {
+    "difficulty": 51,
+    "word1": "full",
+    "def1": "containing or holding as much or as many as possible",
+    "word2": "complete",
+    "def2": "having all the necessary or appropriate parts"
+  },
+  {
+    "difficulty": 52,
+    "word1": "empty",
+    "def1": "containing nothing; not filled or occupied",
+    "word2": "vacant",
+    "def2": "not occupied; not in use"
+  },
+  {
+    "difficulty": 53,
+    "word1": "dark",
+    "def1": "with little or no light",
+    "word2": "dim",
+    "def2": "not bright or distinct; faint"
+  },
+  {
+    "difficulty": 54,
+    "word1": "bright",
+    "def1": "giving out or reflecting a lot of light",
+    "word2": "luminous",
+    "def2": "giving off light; bright or shining"
+  },
+  {
+    "difficulty": 55,
+    "word1": "young",
+    "def1": "having lived or existed for only a short time",
+    "word2": "youthful",
+    "def2": "characteristic of youth; vigorous and fresh"
+  },
+  {
+    "difficulty": 56,
+    "word1": "old",
+    "def1": "having lived for a long time; no longer young",
+    "word2": "elderly",
+    "def2": "rather old; past middle age"
+  },
+  {
+    "difficulty": 57,
+    "word1": "correct",
+    "def1": "free from error; in accordance with fact or truth",
+    "word2": "accurate",
+    "def2": "correct in all details; exact"
+  },
+  {
+    "difficulty": 58,
+    "word1": "wrong",
+    "def1": "not correct or true; incorrect",
+    "word2": "mistaken",
+    "def2": "wrong in one's opinion or judgment"
+  },
+  {
+    "difficulty": 59,
+    "word1": "smooth",
+    "def1": "having an even and regular surface; free from perceptible projections",
+    "word2": "even",
+    "def2": "flat and smooth"
+  },
+  {
+    "difficulty": 60,
+    "word1": "rough",
+    "def1": "having an uneven or irregular surface",
+    "word2": "rugged",
+    "def2": "having a broken, rocky, and uneven surface"
+  },
+  {
+    "difficulty": 61,
+    "word1": "calm",
+    "def1": "not showing or feeling nervousness, anger, or other strong emotions",
+    "word2": "serene",
+    "def2": "calm, peaceful, and untroubled"
+  },
+  {
+    "difficulty": 62,
+    "word1": "upset",
+    "def1": "emotionally disturbed, distressed, or worried",
+    "word2": "agitated",
+    "def2": "feeling or appearing troubled or nervous"
+  },
+  {
+    "difficulty": 63,
+    "word1": "dangerous",
+    "def1": "able or likely to cause harm",
+    "word2": "hazardous",
+    "def2": "risky; dangerous"
+  },
+  {
+    "difficulty": 64,
+    "word1": "safe",
+    "def1": "protected from or not exposed to danger or risk",
+    "word2": "secure",
+    "def2": "fixed or fastened so as not to give way, become loose, or be lost"
+  },
+  {
+    "difficulty": 65,
+    "word1": "wise",
+    "def1": "having or showing experience, knowledge, and good judgment",
+    "word2": "sage",
+    "def2": "profoundly wise"
+  },
+  {
+    "difficulty": 66,
+    "word1": "foolish",
+    "def1": "lacking good sense or judgment; unwise",
+    "word2": "silly",
+    "def2": "having or showing a lack of common sense or judgment"
+  },
+  {
+    "difficulty": 67,
+    "word1": "polite",
+    "def1": "having or showing behavior that is respectful and considerate of other people",
+    "word2": "courteous",
+    "def2": "polite, respectful, or considerate in manner"
+  },
+  {
+    "difficulty": 68,
+    "word1": "rude",
+    "def1": "offensively impolite or ill-mannered",
+    "word2": "impolite",
+    "def2": "not having or showing good manners"
+  },
+  {
+    "difficulty": 69,
+    "word1": "true",
+    "def1": "in accordance with fact or reality",
+    "word2": "genuine",
+    "def2": "truly what something is said to be; authentic"
+  },
+  {
+    "difficulty": 70,
+    "word1": "false",
+    "def1": "not according with truth or fact; incorrect",
+    "word2": "untrue",
+    "def2": "not in accordance with fact or reality"
+  },
+  {
+    "difficulty": 71,
+    "word1": "happy",
+    "def1": "feeling or showing pleasure or contentment",
+    "word2": "joyful",
+    "def2": "feeling, expressing, or causing great pleasure and happiness"
+  },
+  {
+    "difficulty": 72,
+    "word1": "sad",
+    "def1": "feeling or showing sorrow; unhappy",
+    "word2": "sorrowful",
+    "def2": "feeling or showing grief"
+  },
+  {
+    "difficulty": 73,
+    "word1": "healthy",
+    "def1": "in good health",
+    "word2": "fit",
+    "def2": "in good physical condition; in good health"
+  },
+  {
+    "difficulty": 74,
+    "word1": "sick",
+    "def1": "affected by physical or mental illness",
+    "word2": "ill",
+    "def2": "suffering from an illness or disease"
+  },
+  {
+    "difficulty": 75,
+    "word1": "numerous",
+    "def1": "great in number; many",
+    "word2": "abundant",
+    "def2": "existing or available in large quantities; plentiful"
+  },
+  {
+    "difficulty": 76,
+    "word1": "few",
+    "def1": "a small number of",
+    "word2": "scarce",
+    "def2": "insufficient for the demand"
+  },
+  {
+    "difficulty": 77,
+    "word1": "astonish",
+    "def1": "to surprise or impress someone greatly",
+    "word2": "amaze",
+    "def2": "to fill with great surprise or wonder"
+  },
+  {
+    "difficulty": 78,
+    "word1": "confuse",
+    "def1": "to cause someone to become bewildered or perplexed",
+    "word2": "bewilder",
+    "def2": "to cause someone to become perplexed and confused"
+  },
+  {
+    "difficulty": 79,
+    "word1": "repair",
+    "def1": "to fix or mend something that is broken or damaged",
+    "word2": "fix",
+    "def2": "to mend or repair something"
+  },
+  {
+    "difficulty": 80,
+    "word1": "damage",
+    "def1": "to harm or impair something",
+    "word2": "harm",
+    "def2": "physical injury, especially that which is deliberately inflicted"
+  },
+  {
+    "difficulty": 81,
+    "word1": "increase",
+    "def1": "to become or make greater in size, amount, or degree",
+    "word2": "expand",
+    "def2": "to become or make larger or more extensive"
+  },
+  {
+    "difficulty": 82,
+    "word1": "decrease",
+    "def1": "to become or make smaller in size, amount, or degree",
+    "word2": "reduce",
+    "def2": "to make smaller or less in amount, degree, or size"
+  },
+  {
+    "difficulty": 83,
+    "word1": "allow",
+    "def1": "to give permission for someone to do something",
+    "word2": "permit",
+    "def2": "to give authorization or consent to someone to do something"
+  },
+  {
+    "difficulty": 84,
+    "word1": "forbid",
+    "def1": "to refuse to allow something",
+    "word2": "prohibit",
+    "def2": "to formally forbid by law, rule, or other authority"
+  },
+  {
+    "difficulty": 85,
+    "word1": "praise",
+    "def1": "to express warm approval or admiration of someone or something",
+    "word2": "commend",
+    "def2": "to praise formally or officially"
+  },
+  {
+    "difficulty": 86,
+    "word1": "criticize",
+    "def1": "to indicate the faults of someone or something in a disapproving way",
+    "word2": "condemn",
+    "def2": "to express complete disapproval of"
+  },
+  {
+    "difficulty": 87,
+    "word1": "accept",
+    "def1": "to receive or take something offered",
+    "word2": "receive",
+    "def2": "to be given, presented with, or paid something"
+  },
+  {
+    "difficulty": 88,
+    "word1": "reject",
+    "def1": "to dismiss as inadequate, inappropriate, or not to one's taste",
+    "word2": "refuse",
+    "def2": "to indicate or show that one is not willing to do something"
+  },
+  {
+    "difficulty": 89,
+    "word1": "buy",
+    "def1": "to obtain in exchange for payment",
+    "word2": "purchase",
+    "def2": "to acquire by paying money or its equivalent"
+  },
+  {
+    "difficulty": 90,
+    "word1": "sell",
+    "def1": "to give or hand over something in exchange for money",
+    "word2": "vend",
+    "def2": "to offer for sale, especially as a hawker or peddler"
+  },
+  {
+    "difficulty": 91,
+    "word1": "ability",
+    "def1": "possession of the means or skill to do something",
+    "word2": "capability",
+    "def2": "the power or ability to do something"
+  },
+  {
+    "difficulty": 92,
+    "word1": "weakness",
+    "def1": "a quality or feature regarded as a disadvantage or fault",
+    "word2": "frailty",
+    "def2": "the condition of being weak and delicate"
+  },
+  {
+    "difficulty": 93,
+    "word1": "courage",
+    "def1": "the ability to do something that frightens one",
+    "word2": "bravery",
+    "def2": "courageous behavior or character"
+  },
+  {
+    "difficulty": 94,
+    "word1": "cowardice",
+    "def1": "lack of bravery",
+    "word2": "fearfulness",
+    "def2": "the state of being afraid"
+  },
+  {
+    "difficulty": 95,
+    "word1": "victory",
+    "def1": "an act of defeating an enemy or opponent in a battle, game, or competition",
+    "word2": "triumph",
+    "def2": "a great victory or achievement"
+  },
+  {
+    "difficulty": 96,
+    "word1": "defeat",
+    "def1": "to win against someone in a fight, competition, or battle",
+    "word2": "loss",
+    "def2": "the fact or process of losing something or someone"
+  },
+  {
+    "difficulty": 97,
+    "word1": "strange",
+    "def1": "unusual or surprising in a way that is unsettling or hard to understand",
+    "word2": "weird",
+    "def2": "suggesting something supernatural; unearthly"
+  },
+  {
+    "difficulty": 98,
+    "word1": "common",
+    "def1": "occurring, found, or done often; prevalent",
+    "word2": "ordinary",
+    "def2": "with no special or distinctive features; normal"
+  },
+  {
+    "difficulty": 99,
+    "word1": "transparent",
+    "def1": "allowing light to pass through so that objects behind can be distinctly seen",
+    "word2": "clear",
+    "def2": "easy to perceive, understand, or interpret"
+  },
+  {
+    "difficulty": 100,
+    "word1": "opaque",
+    "def1": "not able to be seen through; not transparent",
+    "word2": "cloudy",
+    "def2": "covered with or characterized by clouds"
+  },
+  {
+    "difficulty": 101,
+    "word1": "ancient",
+    "def1": "belonging to the very distant past and no longer in existence",
+    "word2": "prehistoric",
+    "def2": "relating to or denoting the period before written records"
+  },
+  {
+    "difficulty": 102,
+    "word1": "modern",
+    "def1": "relating to the present or recent times as opposed to the remote past",
+    "word2": "contemporary",
+    "def2": "living or occurring at the same time"
+  },
+  {
+    "difficulty": 103,
+    "word1": "abundant",
+    "def1": "existing or available in large quantities; plentiful",
+    "word2": "plentiful",
+    "def2": "existing in large numbers or amounts; abundant"
+  },
+  {
+    "difficulty": 104,
+    "word1": "scarce",
+    "def1": "insufficient for the demand",
+    "word2": "rare",
+    "def2": "not found in large numbers and consequently of interest or value"
+  },
+  {
+    "difficulty": 105,
+    "word1": "absurd",
+    "def1": "wildly unreasonable, illogical, or inappropriate",
+    "word2": "ridiculous",
+    "def2": "deserving or inviting derision or mockery; absurd"
+  },
+  {
+    "difficulty": 106,
+    "word1": "sensible",
+    "def1": "chosen in accordance with wisdom or prudence; likely to be of benefit",
+    "word2": "reasonable",
+    "def2": "having sound judgment; fair and sensible"
+  },
+  {
+    "difficulty": 107,
+    "word1": "accurate",
+    "def1": "correct in all details; exact",
+    "word2": "precise",
+    "def2": "marked by exactness and accuracy of expression or detail"
+  },
+  {
+    "difficulty": 108,
+    "word1": "inaccurate",
+    "def1": "not accurate",
+    "word2": "erroneous",
+    "def2": "wrong; incorrect"
+  },
+  {
+    "difficulty": 109,
+    "word1": "accomplish",
+    "def1": "achieve or complete successfully",
+    "word2": "achieve",
+    "def2": "successfully bring about or reach by effort, skill, or courage"
+  },
+  {
+    "difficulty": 110,
+    "word1": "fail",
+    "def1": "to be unsuccessful in achieving one's goal",
+    "word2": "falter",
+    "def2": "to lose strength or momentum"
+  },
+  {
+    "difficulty": 111,
+    "word1": "acknowledge",
+    "def1": "to accept or admit the existence or truth of something",
+    "word2": "recognize",
+    "def2": "to identify someone or something from having encountered them before; know again"
+  },
+  {
+    "difficulty": 112,
+    "word1": "ignore",
+    "def1": "to refuse to take notice of or acknowledge; disregard intentionally",
+    "word2": "overlook",
+    "def2": "to fail to notice or observe; to disregard"
+  },
+  {
+    "difficulty": 113,
+    "word1": "acquire",
+    "def1": "to buy or obtain an asset or object for oneself",
+    "word2": "gain",
+    "def2": "to obtain or secure something wanted or desirable"
+  },
+  {
+    "difficulty": 114,
+    "word1": "lose",
+    "def1": "to be deprived of or cease to have or retain something",
+    "word2": "forfeit",
+    "def2": "to lose or give up something as a penalty"
+  },
+  {
+    "difficulty": 115,
+    "word1": "adequate",
+    "def1": "satisfactory or acceptable in quality or quantity",
+    "word2": "sufficient",
+    "def2": "enough; adequate"
+  },
+  {
+    "difficulty": 116,
+    "word1": "inadequate",
+    "def1": "lacking the quality or quantity required; insufficient for a purpose",
+    "word2": "insufficient",
+    "def2": "not enough; inadequate"
+  },
+  {
+    "difficulty": 117,
+    "word1": "admire",
+    "def1": "to regard with respect or warm approval",
+    "word2": "revere",
+    "def2": "to feel deep respect or admiration for someone or something"
+  },
+  {
+    "difficulty": 118,
+    "word1": "despise",
+    "def1": "to feel contempt or a deep repugnance for",
+    "word2": "loathe",
+    "def2": "to feel intense dislike or disgust for"
+  },
+  {
+    "difficulty": 119,
+    "word1": "admit",
+    "def1": "to confess to be true or to be the case",
+    "word2": "confess",
+    "def2": "to admit or acknowledge something reluctantly, typically because one feels slightly ashamed or embarrassed"
+  },
+  {
+    "difficulty": 120,
+    "word1": "deny",
+    "def1": "to state that one refuses to admit the truth or existence of",
+    "word2": "reject",
+    "def2": "to dismiss as inadequate, inappropriate, or not to one's taste"
+  },
+  {
+    "difficulty": 121,
+    "word1": "advance",
+    "def1": "to move forward in a purposeful way",
+    "word2": "progress",
+    "def2": "to move forward or onward in space or time"
+  },
+  {
+    "difficulty": 122,
+    "word1": "retreat",
+    "def1": "to withdraw from enemy forces as a result of their superior power or after a defeat",
+    "word2": "withdraw",
+    "def2": "to remove or take back something"
+  },
+  {
+    "difficulty": 123,
+    "word1": "advantage",
+    "def1": "a condition or circumstance that puts one in a favorable position",
+    "word2": "benefit",
+    "def2": "an advantage or profit gained from something"
+  },
+  {
+    "difficulty": 124,
+    "word1": "disadvantage",
+    "def1": "an unfavorable circumstance or condition that reduces the chances of success or effectiveness",
+    "word2": "drawback",
+    "def2": "a feature that renders something less acceptable; a disadvantage or problem"
+  },
+  {
+    "difficulty": 125,
+    "word1": "afraid",
+    "def1": "feeling fear or anxiety",
+    "word2": "fearful",
+    "def2": "feeling afraid; showing fear or anxiety"
+  },
+  {
+    "difficulty": 126,
+    "word1": "confident",
+    "def1": "feeling or showing confidence in oneself or one's abilities or qualities",
+    "word2": "assured",
+    "def2": "confident and relaxed"
+  },
+  {
+    "difficulty": 127,
+    "word1": "agree",
+    "def1": "to have the same opinion about something; concur",
+    "word2": "concur",
+    "def2": "to be of the same opinion; agree"
+  },
+  {
+    "difficulty": 128,
+    "word1": "disagree",
+    "def1": "to have or express a different opinion",
+    "word2": "differ",
+    "def2": "to be unlike or dissimilar"
+  },
+  {
+    "difficulty": 129,
+    "word1": "alive",
+    "def1": "living, not dead",
+    "word2": "living",
+    "def2": "having life"
+  },
+  {
+    "difficulty": 130,
+    "word1": "dead",
+    "def1": "no longer alive",
+    "word2": "deceased",
+    "def2": "recently dead"
+  },
+  {
+    "difficulty": 131,
+    "word1": "ally",
+    "def1": "a state formally cooperating with another for a military or other purpose",
+    "word2": "partner",
+    "def2": "a person who shares or is associated with another in some action or endeavor"
+  },
+  {
+    "difficulty": 132,
+    "word1": "enemy",
+    "def1": "a person who is actively opposed or hostile to someone or something",
+    "word2": "adversary",
+    "def2": "one's opponent in a contest, conflict, or dispute"
+  },
+  {
+    "difficulty": 133,
+    "word1": "amazed",
+    "def1": "greatly surprised; astounded",
+    "word2": "astonished",
+    "def2": "greatly surprised or impressed; amazed"
+  },
+  {
+    "difficulty": 134,
+    "word1": "unimpressed",
+    "def1": "not feeling admiration or respect",
+    "word2": "underwhelmed",
+    "def2": "fail to impress or make a positive impact on someone"
+  },
+  {
+    "difficulty": 135,
+    "word1": "ambiguous",
+    "def1": "open to more than one interpretation; having a double meaning",
+    "word2": "vague",
+    "def2": "of uncertain, indefinite, or unclear character or meaning"
+  },
+  {
+    "difficulty": 136,
+    "word1": "clear",
+    "def1": "easy to perceive, understand, or interpret",
+    "word2": "explicit",
+    "def2": "stated clearly and in detail, leaving no room for confusion or doubt"
+  },
+  {
+    "difficulty": 137,
+    "word1": "amusing",
+    "def1": "causing laughter and providing entertainment",
+    "word2": "entertaining",
+    "def2": "providing amusement or enjoyment"
+  },
+  {
+    "difficulty": 138,
+    "word1": "boring",
+    "def1": "not interesting; tedious",
+    "word2": "dull",
+    "def2": "lacking interest or excitement"
+  },
+  {
+    "difficulty": 139,
+    "word1": "anger",
+    "def1": "a strong feeling of annoyance, displeasure, or hostility",
+    "word2": "rage",
+    "def2": "violent, uncontrollable anger"
+  },
+  {
+    "difficulty": 140,
+    "word1": "happiness",
+    "def1": "the state of being happy",
+    "word2": "joy",
+    "def2": "a feeling of great pleasure and happiness"
+  },
+  {
+    "difficulty": 141,
+    "word1": "annoy",
+    "def1": "to irritate or make someone a little angry",
+    "word2": "irritate",
+    "def2": "to make someone annoyed or a little angry"
+  },
+  {
+    "difficulty": 142,
+    "word1": "please",
+    "def1": "to cause to feel happy and satisfied",
+    "word2": "satisfy",
+    "def2": "to meet the expectations, needs, or desires of someone"
+  },
+  {
+    "difficulty": 143,
+    "word1": "answer",
+    "def1": "a thing said, written, or done to deal with or as a reaction to a question, statement, or situation",
+    "word2": "reply",
+    "def2": "a verbal or written response"
+  },
+  {
+    "difficulty": 144,
+    "word1": "question",
+    "def1": "a sentence worded or expressed so as to elicit information",
+    "word2": "inquiry",
+    "def2": "an act of asking for information"
+  },
+  {
+    "difficulty": 145,
+    "word1": "anxious",
+    "def1": "experiencing worry, unease, or nervousness",
+    "word2": "worried",
+    "def2": "anxious or troubled about actual or potential problems"
+  },
+  {
+    "difficulty": 146,
+    "word1": "calm",
+    "def1": "not showing or feeling nervousness, anger, or other strong emotions",
+    "word2": "relaxed",
+    "def2": "free from tension and anxiety; at ease"
+  },
+  {
+    "difficulty": 147,
+    "word1": "apologize",
+    "def1": "to express regret for something that one has done wrong",
+    "word2": "repent",
+    "def2": "to feel or express sincere regret or remorse about one's wrongdoing or sin"
+  },
+  {
+    "difficulty": 148,
+    "word1": "defend",
+    "def1": "to resist an attack made on someone or something; protect",
+    "word2": "justify",
+    "def2": "to show or prove to be right or reasonable"
+  },
+  {
+    "difficulty": 149,
+    "word1": "appear",
+    "def1": "to come into sight; become visible or noticeable",
+    "word2": "emerge",
+    "def2": "to move out of or away from something and come into view"
+  },
+  {
+    "difficulty": 150,
+    "word1": "disappear",
+    "def1": "to cease to be visible",
+    "word2": "vanish",
+    "def2": "to disappear suddenly and completely"
+  },
+  {
+    "difficulty": 151,
+    "word1": "applaud",
+    "def1": "to show approval or praise by clapping the hands",
+    "word2": "cheer",
+    "def2": "to shout for joy or in praise or encouragement"
+  },
+  {
+    "difficulty": 152,
+    "word1": "criticize",
+    "def1": "to indicate the faults of someone or something in a disapproving way",
+    "word2": "censure",
+    "def2": "to express severe disapproval of someone or something, typically in a formal statement"
+  },
+  {
+    "difficulty": 153,
+    "word1": "appreciate",
+    "def1": "to recognize the full worth of",
+    "word2": "value",
+    "def2": "to consider someone or something to be important or beneficial"
+  },
+  {
+    "difficulty": 154,
+    "word1": "disregard",
+    "def1": "to pay no attention to; ignore",
+    "word2": "neglect",
+    "def2": "to fail to care for properly"
+  },
+  {
+    "difficulty": 155,
+    "word1": "approach",
+    "def1": "to come near or nearer to someone or something in distance or time",
+    "word2": "near",
+    "def2": "at or to a short distance away"
+  },
+  {
+    "difficulty": 156,
+    "word1": "avoid",
+    "def1": "to keep away from or stop oneself from doing something",
+    "word2": "evade",
+    "def2": "to escape or avoid, especially by cleverness or trickery"
+  },
+  {
+    "difficulty": 157,
+    "word1": "argue",
+    "def1": "to exchange or express diverging or opposite views, typically in a heated or angry way",
+    "word2": "dispute",
+    "def2": "to argue or debate about something"
+  },
+  {
+    "difficulty": 158,
+    "word1": "agree",
+    "def1": "to have the same opinion about something; concur",
+    "word2": "consent",
+    "def2": "to give permission for something to happen"
+  },
+  {
+    "difficulty": 159,
+    "word1": "arrogant",
+    "def1": "having or revealing an exaggerated sense of one's own importance or abilities",
+    "word2": "haughty",
+    "def2": "arrogantly superior and disdainful"
+  },
+  {
+    "difficulty": 160,
+    "word1": "humble",
+    "def1": "having or showing a modest or low estimate of one's own importance",
+    "word2": "modest",
+    "def2": "unassuming or moderate in the estimation of one's abilities or achievements"
+  },
+  {
+    "difficulty": 161,
+    "word1": "artificial",
+    "def1": "made or produced by human beings rather than occurring naturally",
+    "word2": "synthetic",
+    "def2": "made by chemical synthesis, especially to imitate a natural product"
+  },
+  {
+    "difficulty": 162,
+    "word1": "natural",
+    "def1": "existing in or derived from nature; not made or caused by humankind",
+    "word2": "organic",
+    "def2": "relating to or derived from living matter"
+  },
+  {
+    "difficulty": 163,
+    "word1": "ashamed",
+    "def1": "embarrassed or guilty because of one's actions, characteristics, or associations",
+    "word2": "embarrassed",
+    "def2": "feeling awkward, self-conscious, or ashamed"
+  },
+  {
+    "difficulty": 164,
+    "word1": "proud",
+    "def1": "feeling deep pleasure or satisfaction as a result of one's own achievements",
+    "word2": "satisfied",
+    "def2": "pleased or content with what has been experienced or received"
+  },
+  {
+    "difficulty": 165,
+    "word1": "ask",
+    "def1": "to say something in order to obtain an answer or some information",
+    "word2": "inquire",
+    "def2": "to ask for information from someone"
+  },
+  {
+    "difficulty": 166,
+    "word1": "answer",
+    "def1": "a thing said, written, or done to deal with or as a reaction to a question",
+    "word2": "respond",
+    "def2": "to say something in reply"
+  },
+  {
+    "difficulty": 167,
+    "word1": "attack",
+    "def1": "to take aggressive action against someone or something",
+    "word2": "assault",
+    "def2": "to make a physical attack on"
+  },
+  {
+    "difficulty": 168,
+    "word1": "defend",
+    "def1": "to resist an attack made on someone or something; protect",
+    "word2": "protect",
+    "def2": "to keep safe from harm or injury"
+  },
+  {
+    "difficulty": 169,
+    "word1": "attractive",
+    "def1": "pleasing or appealing to the senses",
+    "word2": "charming",
+    "def2": "very pleasant or attractive"
+  },
+  {
+    "difficulty": 170,
+    "word1": "repulsive",
+    "def1": "arousing intense distaste or disgust",
+    "word2": "revolting",
+    "def2": "causing intense disgust; disgusting"
+  },
+  {
+    "difficulty": 171,
+    "word1": "authentic",
+    "def1": "of undisputed origin; genuine",
+    "word2": "genuine",
+    "def2": "truly what something is said to be; authentic"
+  },
+  {
+    "difficulty": 172,
+    "word1": "fake",
+    "def1": "not genuine; counterfeit",
+    "word2": "counterfeit",
+    "def2": "made in exact imitation of something valuable or important with the intention to deceive or defraud"
+  },
+  {
+    "difficulty": 173,
+    "word1": "available",
+    "def1": "able to be used or obtained; at someone's disposal",
+    "word2": "accessible",
+    "def2": "able to be reached or entered"
+  },
+  {
+    "difficulty": 174,
+    "word1": "unavailable",
+    "def1": "not able to be used or obtained",
+    "word2": "inaccessible",
+    "def2": "unable to be reached"
+  },
+  {
+    "difficulty": 175,
+    "word1": "awful",
+    "def1": "very bad or unpleasant",
+    "word2": "terrible",
+    "def2": "extremely or distressingly bad or serious"
+  },
+  {
+    "difficulty": 176,
+    "word1": "wonderful",
+    "def1": "inspiring delight, pleasure, or admiration",
+    "word2": "marvelous",
+    "def2": "causing great wonder; extraordinary"
+  },
+  {
+    "difficulty": 177,
+    "word1": "awkward",
+    "def1": "causing difficulty; hard to do or deal with",
+    "word2": "clumsy",
+    "def2": "moving or doing things in a very awkward way and tending to drop or break things"
+  },
+  {
+    "difficulty": 178,
+    "word1": "graceful",
+    "def1": "having or showing grace or elegance",
+    "word2": "elegant",
+    "def2": "graceful and stylish in appearance or manner"
+  },
+  {
+    "difficulty": 179,
+    "word1": "basic",
+    "def1": "forming an essential foundation or starting point; fundamental",
+    "word2": "fundamental",
+    "def2": "forming a necessary base or core; of central importance"
+  },
+  {
+    "difficulty": 180,
+    "word1": "complex",
+    "def1": "consisting of many different and connected parts",
+    "word2": "complicated",
+    "def2": "involving many different and confusing aspects"
+  },
+  {
+    "difficulty": 181,
+    "word1": "beautiful",
+    "def1": "pleasing the senses or mind aesthetically",
+    "word2": "gorgeous",
+    "def2": "beautiful; very attractive"
+  },
+  {
+    "difficulty": 182,
+    "word1": "ugly",
+    "def1": "unpleasant or repulsive, especially in appearance",
+    "word2": "hideous",
+    "def2": "extremely ugly or disgusting"
+  },
+  {
+    "difficulty": 183,
+    "word1": "begin",
+    "def1": "to start to happen or exist",
+    "word2": "start",
+    "def2": "to begin or set in motion"
+  },
+  {
+    "difficulty": 184,
+    "word1": "end",
+    "def1": "the final part of something",
+    "word2": "conclude",
+    "def2": "to bring something to an end"
+  },
+  {
+    "difficulty": 185,
+    "word1": "believe",
+    "def1": "to accept that something is true, especially without proof",
+    "word2": "trust",
+    "def2": "to believe in the reliability, truth, ability, or strength of something"
+  },
+  {
+    "difficulty": 186,
+    "word1": "doubt",
+    "def1": "a feeling of uncertainty or lack of conviction",
+    "word2": "question",
+    "def2": "to feel or express doubt about; raise objections to"
+  },
+  {
+    "difficulty": 187,
+    "word1": "beneficial",
+    "def1": "resulting in good; favorable or helpful",
+    "word2": "advantageous",
+    "def2": "providing an advantage; helpful; beneficial"
+  },
+  {
+    "difficulty": 188,
+    "word1": "harmful",
+    "def1": "causing or likely to cause harm",
+    "word2": "detrimental",
+    "def2": "tending to cause harm"
+  },
+  {
+    "difficulty": 189,
+    "word1": "big",
+    "def1": "of considerable size or extent",
+    "word2": "enormous",
+    "def2": "very large in size or quantity"
+  },
+  {
+    "difficulty": 190,
+    "word1": "small",
+    "def1": "of a size that is less than normal or usual",
+    "word2": "minute",
+    "def2": "extremely small"
+  },
+  {
+    "difficulty": 191,
+    "word1": "bitter",
+    "def1": "having a sharp, pungent taste or smell; not sweet",
+    "word2": "acrid",
+    "def2": "having an irritatingly strong and unpleasant taste or smell"
+  },
+  {
+    "difficulty": 192,
+    "word1": "sweet",
+    "def1": "having the pleasant taste characteristic of sugar or honey",
+    "word2": "sugary",
+    "def2": "containing or covered with sugar"
+  },
+  {
+    "difficulty": 193,
+    "word1": "blame",
+    "def1": "to feel or declare that someone or something is responsible for a fault or wrong",
+    "word2": "accuse",
+    "def2": "to charge someone with an offense or crime"
+  },
+  {
+    "difficulty": 194,
+    "word1": "praise",
+    "def1": "to express warm approval or admiration of someone or something",
+    "word2": "applaud",
+    "def2": "to show approval of by clapping the hands vigorously"
+  },
+  {
+    "difficulty": 195,
+    "word1": "bless",
+    "def1": "to ask divine favor upon",
+    "word2": "consecrate",
+    "def2": "to make or declare something sacred"
+  },
+  {
+    "difficulty": 196,
+    "word1": "curse",
+    "def1": "to invoke or use a curse against",
+    "word2": "damn",
+    "def2": "to condemn to eternal punishment in hell"
+  },
+  {
+    "difficulty": 197,
+    "word1": "blunt",
+    "def1": "having a worn-down edge or point; not sharp",
+    "word2": "dull",
+    "def2": "not sharp; blunt"
+  },
+  {
+    "difficulty": 198,
+    "word1": "sharp",
+    "def1": "having an edge or point that is able to cut or pierce something",
+    "word2": "keen",
+    "def2": "having or showing eagerness or enthusiasm"
+  },
+  {
+    "difficulty": 199,
+    "word1": "bold",
+    "def1": "showing an ability to take risks; confident and courageous",
+    "word2": "daring",
+    "def2": "adventurous or audaciously bold"
+  },
+  {
+    "difficulty": 200,
+    "word1": "timid",
+    "def1": "showing a lack of courage or confidence; easily frightened",
+    "word2": "shy",
+    "def2": "being reserved or having or showing nervousness in the company of other people"
+  },
+  {
+    "difficulty": 201,
+    "word1": "boring",
+    "def1": "not interesting; tedious",
+    "word2": "monotonous",
+    "def2": "dull, tedious, and repetitious; lacking in variety and interest"
+  },
+  {
+    "difficulty": 202,
+    "word1": "exciting",
+    "def1": "causing great enthusiasm and eagerness",
+    "word2": "thrilling",
+    "def2": "causing excitement and pleasure; exhilarating"
+  },
+  {
+    "difficulty": 203,
+    "word1": "borrow",
+    "def1": "to take and use something that belongs to somebody else with the intention of returning it",
+    "word2": "loan",
+    "def2": "a thing that is borrowed, especially a sum of money that is expected to be paid back with interest"
+  },
+  {
+    "difficulty": 204,
+    "word1": "lend",
+    "def1": "to grant the use of something on the condition that it or its equivalent will be returned",
+    "word2": "provide",
+    "def2": "to make available for use; supply"
+  },
+  {
+    "difficulty": 205,
+    "word1": "brave",
+    "def1": "ready to face and endure danger or pain; showing courage",
+    "word2": "valiant",
+    "def2": "possessing or showing courage or determination"
+  },
+  {
+    "difficulty": 206,
+    "word1": "cowardly",
+    "def1": "lacking courage",
+    "word2": "fearful",
+    "def2": "feeling afraid; showing fear or anxiety"
+  },
+  {
+    "difficulty": 207,
+    "word1": "brief",
+    "def1": "of short duration",
+    "word2": "concise",
+    "def2": "giving a lot of information clearly and in a few words; brief but comprehensive"
+  },
+  {
+    "difficulty": 208,
+    "word1": "lengthy",
+    "def1": "taking or needing a long time",
+    "word2": "extended",
+    "def2": "made longer or wider"
+  },
+  {
+    "difficulty": 209,
+    "word1": "bright",
+    "def1": "giving out or reflecting a lot of light; shining",
+    "word2": "radiant",
+    "def2": "sending out light; shining or glowing brightly"
+  },
+  {
+    "difficulty": 210,
+    "word1": "dull",
+    "def1": "lacking brightness, vividness, or sheen",
+    "word2": "dingy",
+    "def2": "gloomy and drab"
+  },
+  {
+    "difficulty": 211,
+    "word1": "brilliant",
+    "def1": "exceptionally clever or talented",
+    "word2": "ingenious",
+    "def2": "clever, original, and inventive"
+  },
+  {
+    "difficulty": 212,
+    "word1": "stupid",
+    "def1": "having or showing a great lack of intelligence or common sense",
+    "word2": "dense",
+    "def2": "stupid and slow to understand"
+  },
+  {
+    "difficulty": 213,
+    "word1": "broad",
+    "def1": "having a large distance from one side to the other; wide",
+    "word2": "expansive",
+    "def2": "covering a wide area in terms of space or scope; extensive or wide-ranging"
+  },
+  {
+    "difficulty": 214,
+    "word1": "narrow",
+    "def1": "of small width in relation to length",
+    "word2": "constricted",
+    "def2": "made smaller, especially by pressing the sides together"
+  },
+  {
+    "difficulty": 215,
+    "word1": "busy",
+    "def1": "having a great deal to do",
+    "word2": "occupied",
+    "def2": "to be engaged in doing something or in using something"
+  },
+  {
+    "difficulty": 216,
+    "word1": "idle",
+    "def1": "avoiding work; lazy",
+    "word2": "inactive",
+    "def2": "not doing anything; not active"
+  },
+  {
+    "difficulty": 217,
+    "word1": "buy",
+    "def1": "to obtain in exchange for payment",
+    "word2": "acquire",
+    "def2": "to buy or obtain for oneself"
+  },
+  {
+    "difficulty": 218,
+    "word1": "sell",
+    "def1": "to give or hand over something in exchange for money",
+    "word2": "trade",
+    "def2": "the action of buying and selling goods and services"
+  },
+  {
+    "difficulty": 219,
+    "word1": "calculate",
+    "def1": "to determine mathematically",
+    "word2": "compute",
+    "def2": "to reckon or calculate"
+  },
+  {
+    "difficulty": 220,
+    "word1": "estimate",
+    "def1": "to roughly calculate or judge the value, number, quantity, or extent of",
+    "word2": "approximate",
+    "def2": "to estimate or calculate a number or amount roughly"
+  },
+  {
+    "difficulty": 221,
+    "word1": "calm",
+    "def1": "not showing or feeling nervousness, anger, or other strong emotions",
+    "word2": "peaceful",
+    "def2": "free from disturbance; tranquil"
+  },
+  {
+    "difficulty": 222,
+    "word1": "nervous",
+    "def1": "easily agitated or alarmed",
+    "word2": "anxious",
+    "def2": "experiencing worry, unease, or nervousness"
+  },
+  {
+    "difficulty": 223,
+    "word1": "capable",
+    "def1": "having the ability, fitness, or quality necessary to do or achieve a specified thing",
+    "word2": "competent",
+    "def2": "having the necessary ability, knowledge, or skill to do something successfully"
+  },
+  {
+    "difficulty": 224,
+    "word1": "incapable",
+    "def1": "not having the ability, fitness, or quality necessary to do or achieve something",
+    "word2": "helpless",
+    "def2": "unable to defend oneself or to act without help"
+  },
+  {
+    "difficulty": 225,
+    "word1": "careful",
+    "def1": "taking or showing care to avoid potential danger, mishap, or harm",
+    "word2": "cautious",
+    "def2": "careful to avoid potential problems or dangers"
+  },
+  {
+    "difficulty": 226,
+    "word1": "careless",
+    "def1": "not giving sufficient attention or thought to avoiding harm or errors",
+    "word2": "negligent",
+    "def2": "failing to take proper care in doing something"
+  },
+  {
+    "difficulty": 227,
+    "word1": "certain",
+    "def1": "known for sure; established beyond doubt",
+    "word2": "definite",
+    "def2": "clearly stated or decided; not vague or doubtful"
+  },
+  {
+    "difficulty": 228,
+    "word1": "uncertain",
+    "def1": "not able to be relied on; not known or definite",
+    "word2": "doubtful",
+    "def2": "feeling uncertain about something"
+  },
+  {
+    "difficulty": 229,
+    "word1": "challenge",
+    "def1": "a call to take part in a contest or competition, especially a duel",
+    "word2": "contest",
+    "def2": "an event in which people compete for supremacy in a sport, activity, or particular quality"
+  },
+  {
+    "difficulty": 230,
+    "word1": "surrender",
+    "def1": "to cease resistance to an enemy or opponent and submit to their authority",
+    "word2": "yield",
+    "def2": "to produce or provide"
+  },
+  {
+    "difficulty": 231,
+    "word1": "change",
+    "def1": "to make or become different",
+    "word2": "alter",
+    "def2": "to change or cause to change in character or composition, typically in a comparatively small but significant way"
+  },
+  {
+    "difficulty": 232,
+    "word1": "remain",
+    "def1": "to continue to exist, especially after other similar or related people or things have ceased to exist",
+    "word2": "stay",
+    "def2": "to remain in the same place"
+  },
+  {
+    "difficulty": 233,
+    "word1": "charming",
+    "def1": "very pleasant or attractive",
+    "word2": "delightful",
+    "def2": "causing delight; very pleasant, beautiful, or enjoyable"
+  },
+  {
+    "difficulty": 234,
+    "word1": "repulsive",
+    "def1": "arousing intense distaste or disgust",
+    "word2": "disgusting",
+    "def2": "arousing revulsion or strong indignation"
+  },
+  {
+    "difficulty": 235,
+    "word1": "cheerful",
+    "def1": "noticeably happy and optimistic",
+    "word2": "jolly",
+    "def2": "happy and cheerful"
+  },
+  {
+    "difficulty": 236,
+    "word1": "gloomy",
+    "def1": "dark or poorly lit, especially so as to appear depressing or frightening",
+    "word2": "dismal",
+    "def2": "depressing; dreary"
+  },
+  {
+    "difficulty": 237,
+    "word1": "choose",
+    "def1": "to pick out or select someone or something as being the best or most appropriate of two or more alternatives",
+    "word2": "select",
+    "def2": "to carefully choose as being the best or most suitable"
+  },
+  {
+    "difficulty": 238,
+    "word1": "reject",
+    "def1": "to dismiss as inadequate, inappropriate, or not to one's taste",
+    "word2": "discard",
+    "def2": "to get rid of something as no longer useful or desirable"
+  },
+  {
+    "difficulty": 239,
+    "word1": "clever",
+    "def1": "quick to understand, learn, and devise or apply ideas",
+    "word2": "astute",
+    "def2": "having or showing an ability to accurately assess situations or people and turn this to one's advantage"
+  },
+  {
+    "difficulty": 240,
+    "word1": "foolish",
+    "def1": "lacking good sense or judgment; unwise",
+    "word2": "irrational",
+    "def2": "not logical or reasonable"
+  },
+  {
+    "difficulty": 241,
+    "word1": "close",
+    "def1": "only a short distance away or apart in space or time",
+    "word2": "near",
+    "def2": "at or to a short distance away"
+  },
+  {
+    "difficulty": 242,
+    "word1": "distant",
+    "def1": "far away in space or time",
+    "word2": "remote",
+    "def2": "far away in distance"
+  },
+  {
+    "difficulty": 243,
+    "word1": "cloudy",
+    "def1": "full of or covered with clouds",
+    "word2": "overcast",
+    "def2": "covered with clouds; dull and gray"
+  },
+  {
+    "difficulty": 244,
+    "word1": "clear",
+    "def1": "free from clouds, mist, or haze",
+    "word2": "sunny",
+    "def2": "bright with sunlight"
+  },
+  {
+    "difficulty": 245,
+    "word1": "clumsy",
+    "def1": "awkward in movement or handling things",
+    "word2": "awkward",
+    "def2": "lacking skill or dexterity"
+  },
+  {
+    "difficulty": 246,
+    "word1": "graceful",
+    "def1": "characterized by elegance or beauty of form, manner, movement, or speech",
+    "word2": "agile",
+    "def2": "able to move quickly and easily"
+  },
+  {
+    "difficulty": 247,
+    "word1": "coarse",
+    "def1": "rough or harsh in texture",
+    "word2": "rough",
+    "def2": "having an uneven or irregular surface"
+  },
+  {
+    "difficulty": 248,
+    "word1": "fine",
+    "def1": "of high quality",
+    "word2": "refined",
+    "def2": "with impurities or unwanted elements having been removed"
+  },
+  {
+    "difficulty": 249,
+    "word1": "cold",
+    "def1": "of or at a low or relatively low temperature",
+    "word2": "frigid",
+    "def2": "very cold in temperature"
+  },
+  {
+    "difficulty": 250,
+    "word1": "hot",
+    "def1": "having a high degree of heat or a high temperature",
+    "word2": "scorching",
+    "def2": "extremely hot"
+  },
+  {
+    "difficulty": 251,
+    "word1": "collect",
+    "def1": "to bring or gather together",
+    "word2": "gather",
+    "def2": "to bring together into one place"
+  },
+  {
+    "difficulty": 252,
+    "word1": "scatter",
+    "def1": "to throw or distribute in various directions",
+    "word2": "disperse",
+    "def2": "to distribute or spread over a wide area"
+  },
+  {
+    "difficulty": 253,
+    "word1": "comfortable",
+    "def1": "providing physical ease and relaxation",
+    "word2": "cozy",
+    "def2": "giving a feeling of comfort, warmth, and relaxation"
+  },
+  {
+    "difficulty": 254,
+    "word1": "uncomfortable",
+    "def1": "causing or feeling slight pain or physical discomfort",
+    "word2": "uneasy",
+    "def2": "causing or feeling anxiety or discomfort"
+  },
+  {
+    "difficulty": 255,
+    "word1": "command",
+    "def1": "to give an authoritative order",
+    "word2": "order",
+    "def2": "to give an authoritative instruction to do something"
+  },
+  {
+    "difficulty": 256,
+    "word1": "obey",
+    "def1": "to comply with the command or instruction of",
+    "word2": "follow",
+    "def2": "to act according to an instruction or command"
+  },
+  {
+    "difficulty": 257,
+    "word1": "common",
+    "def1": "occurring, found, or done often; prevalent",
+    "word2": "prevalent",
+    "def2": "widespread in a particular area or at a particular time"
+  },
+  {
+    "difficulty": 258,
+    "word1": "rare",
+    "def1": "not found in large numbers and consequently of interest or value",
+    "word2": "uncommon",
+    "def2": "not occurring or happening often"
+  },
+  {
+    "difficulty": 259,
+    "word1": "communicate",
+    "def1": "to share or exchange information, news, or ideas",
+    "word2": "convey",
+    "def2": "to transport or carry to a place"
+  },
+  {
+    "difficulty": 260,
+    "word1": "withhold",
+    "def1": "to refuse to give something that is due or desired",
+    "word2": "suppress",
+    "def2": "to forcibly put an end to"
+  },
+  {
+    "difficulty": 261,
+    "word1": "compare",
+    "def1": "to estimate, measure, or note the similarity or dissimilarity between",
+    "word2": "contrast",
+    "def2": "to compare in such a way as to emphasize differences"
+  },
+  {
+    "difficulty": 262,
+    "word1": "differentiate",
+    "def1": "to recognize or ascertain what makes someone or something different",
+    "word2": "distinguish",
+    "def2": "to recognize or treat someone or something as different"
+  },
+  {
+    "difficulty": 263,
+    "word1": "compete",
+    "def1": "to strive to gain or win something by defeating or establishing superiority over others",
+    "word2": "contend",
+    "def2": "to struggle to surmount a difficulty or danger"
+  },
+  {
+    "difficulty": 264,
+    "word1": "collaborate",
+    "def1": "to work jointly on an activity or project",
+    "word2": "cooperate",
+    "def2": "to act or work with another or others willingly for a common purpose"
+  },
+  {
+    "difficulty": 265,
+    "word1": "complain",
+    "def1": "to express dissatisfaction or annoyance about something",
+    "word2": "protest",
+    "def2": "to express an objection to what someone has said or done"
+  },
+  {
+    "difficulty": 266,
+    "word1": "praise",
+    "def1": "to express warm approval or admiration of someone or something",
+    "word2": "compliment",
+    "def2": "to praise or express admiration for someone"
+  },
+  {
+    "difficulty": 267,
+    "word1": "complete",
+    "def1": "having all the necessary or appropriate parts",
+    "word2": "entire",
+    "def2": "with no part left out; whole"
+  },
+  {
+    "difficulty": 268,
+    "word1": "incomplete",
+    "def1": "not having all the necessary or appropriate parts",
+    "word2": "partial",
+    "def2": "existing only in part; incomplete"
+  },
+  {
+    "difficulty": 269,
+    "word1": "complicated",
+    "def1": "consisting of many interconnecting parts or elements; intricate",
+    "word2": "intricate",
+    "def2": "very complicated or detailed"
+  },
+  {
+    "difficulty": 270,
+    "word1": "simple",
+    "def1": "easily understood or done; presenting no difficulty",
+    "word2": "straightforward",
+    "def2": "uncomplicated and easy to do or understand"
+  },
+  {
+    "difficulty": 271,
+    "word1": "conceal",
+    "def1": "to prevent from being seen; hide",
+    "word2": "hide",
+    "def2": "to put or keep out of sight"
+  },
+  {
+    "difficulty": 272,
+    "word1": "reveal",
+    "def1": "to make previously unknown or secret information known to others",
+    "word2": "disclose",
+    "def2": "to make new or secret information known"
+  },
+  {
+    "difficulty": 273,
+    "word1": "condemn",
+    "def1": "to express complete disapproval of; censure",
+    "word2": "denounce",
+    "def2": "to publicly declare to be wrong or evil"
+  },
+  {
+    "difficulty": 274,
+    "word1": "approve",
+    "def1": "to officially agree to or accept as satisfactory",
+    "word2": "endorse",
+    "def2": "to declare one's public approval or support of"
+  },
+  {
+    "difficulty": 275,
+    "word1": "confidence",
+    "def1": "the feeling or belief that one can rely on someone or something; firm trust",
+    "word2": "assurance",
+    "def2": "a positive declaration intended to give confidence"
+  },
+  {
+    "difficulty": 276,
+    "word1": "doubt",
+    "def1": "a feeling of uncertainty or lack of conviction",
+    "word2": "uncertainty",
+    "def2": "the state of being uncertain"
+  },
+  {
+    "difficulty": 277,
+    "word1": "confirm",
+    "def1": "to establish the truth or correctness of something previously believed or suspected to be the case",
+    "word2": "verify",
+    "def2": "to make sure or demonstrate that something is true, accurate, or justified"
+  },
+  {
+    "difficulty": 278,
+    "word1": "deny",
+    "def1": "to state that one refuses to admit the truth or existence of",
+    "word2": "refute",
+    "def2": "to prove a statement or theory to be wrong or false"
+  },
+  {
+    "difficulty": 279,
+    "word1": "confuse",
+    "def1": "to cause someone to become bewildered or perplexed",
+    "word2": "perplex",
+    "def2": "to make someone feel completely baffled"
+  },
+  {
+    "difficulty": 280,
+    "word1": "clarify",
+    "def1": "to make a statement or situation less confused and more comprehensible",
+    "word2": "explain",
+    "def2": "to make something clear or easy to understand by describing it in more detail"
+  },
+  {
+    "difficulty": 281,
+    "word1": "congratulate",
+    "def1": "to express praise for an achievement or good wishes on a special occasion",
+    "word2": "felicitate",
+    "def2": "to congratulate"
+  },
+  {
+    "difficulty": 282,
+    "word1": "criticize",
+    "def1": "to indicate the faults of someone or something in a disapproving way",
+    "word2": "critique",
+    "def2": "to evaluate in a detailed and analytical way"
+  },
+  {
+    "difficulty": 283,
+    "word1": "connect",
+    "def1": "to bring together or into contact so that a real or notional link is established",
+    "word2": "join",
+    "def2": "to link; connect"
+  },
+  {
+    "difficulty": 284,
+    "word1": "separate",
+    "def1": "to cause to be apart; to divide",
+    "word2": "detach",
+    "def2": "to disconnect or unfasten"
+  },
+  {
+    "difficulty": 285,
+    "word1": "conscious",
+    "def1": "aware of and responding to one's surroundings; awake",
+    "word2": "aware",
+    "def2": "having knowledge or perception of a situation or fact"
+  },
+  {
+    "difficulty": 286,
+    "word1": "unconscious",
+    "def1": "not conscious; lacking awareness and the capacity for sensory perception",
+    "word2": "insensible",
+    "def2": "without consciousness or awareness"
+  },
+  {
+    "difficulty": 287,
+    "word1": "consider",
+    "def1": "to think carefully about something, typically before making a decision",
+    "word2": "contemplate",
+    "def2": "to look thoughtfully for a long time at"
+  },
+  {
+    "difficulty": 288,
+    "word1": "dismiss",
+    "def1": "to order or allow to leave; send away",
+    "word2": "reject",
+    "def2": "to dismiss as inadequate, inappropriate, or not to one's taste"
+  },
+  {
+    "difficulty": 289,
+    "word1": "constant",
+    "def1": "occurring continuously over a period of time",
+    "word2": "continuous",
+    "def2": "forming an unbroken whole; without interruption"
+  },
+  {
+    "difficulty": 290,
+    "word1": "variable",
+    "def1": "not consistent or having a fixed pattern; liable to change",
+    "word2": "fluctuating",
+    "def2": "rising and falling irregularly in number or amount"
+  },
+  {
+    "difficulty": 291,
+    "word1": "construct",
+    "def1": "to build or make something",
+    "word2": "build",
+    "def2": "to construct something by putting parts or material together"
+  },
+  {
+    "difficulty": 292,
+    "word1": "destroy",
+    "def1": "to put an end to the existence of something by damaging or attacking it",
+    "word2": "demolish",
+    "def2": "to pull or knock down"
+  },
+  {
+    "difficulty": 293,
+    "word1": "content",
+    "def1": "in a state of peaceful happiness",
+    "word2": "satisfied",
+    "def2": "pleased or content with what has been experienced or received"
+  },
+  {
+    "difficulty": 294,
+    "word1": "discontent",
+    "def1": "dissatisfaction with one's circumstances; lack of contentment",
+    "word2": "dissatisfied",
+    "def2": "not content or satisfied with something"
+  },
+  {
+    "difficulty": 295,
+    "word1": "continue",
+    "def1": "to persist in an activity or process",
+    "word2": "proceed",
+    "def2": "to begin or continue a course of action"
+  },
+  {
+    "difficulty": 296,
+    "word1": "stop",
+    "def1": "to come to an end; cease to happen",
+    "word2": "cease",
+    "def2": "to come to an end; stop"
+  },
+  {
+    "difficulty": 297,
+    "word1": "contract",
+    "def1": "to decrease in size, number, or range",
+    "word2": "shrink",
+    "def2": "to become or make smaller in size or amount"
+  },
+  {
+    "difficulty": 298,
+    "word1": "expand",
+    "def1": "to become or make larger or more extensive",
+    "word2": "enlarge",
+    "def2": "to make or become larger or more extensive"
+  },
+  {
+    "difficulty": 299,
+    "word1": "contrary",
+    "def1": "opposite in nature, direction, or meaning",
+    "word2": "opposite",
+    "def2": "diametrically different; of a contrary kind"
+  },
+  {
+    "difficulty": 300,
+    "word1": "similar",
+    "def1": "resembling without being identical",
+    "word2": "alike",
+    "def2": "having resemblance or similitude; similar"
+  },
+  {
+    "difficulty": 301,
+    "word1": "convince",
+    "def1": "to cause someone to believe firmly in the truth of something",
+    "word2": "persuade",
+    "def2": "to induce someone to do something through reasoning or argument"
+  },
+  {
+    "difficulty": 302,
+    "word1": "dissuade",
+    "def1": "to persuade someone not to take a particular course of action",
+    "word2": "discourage",
+    "def2": "to cause someone to lose confidence or enthusiasm for something"
+  },
+  {
+    "difficulty": 303,
+    "word1": "cool",
+    "def1": "of or at a fairly low temperature",
+    "word2": "chilly",
+    "def2": "unpleasantly cold or cool"
+  },
+  {
+    "difficulty": 304,
+    "word1": "warm",
+    "def1": "having or giving out a moderate degree of heat, as perceived by the senses",
+    "word2": "heated",
+    "def2": "made hot or hotter"
+  },
+  {
+    "difficulty": 305,
+    "word1": "cooperate",
+    "def1": "to act jointly; work toward the same end",
+    "word2": "collaborate",
+    "def2": "to work jointly on an activity or project"
+  },
+  {
+    "difficulty": 306,
+    "word1": "resist",
+    "def1": "to withstand the action or effect of",
+    "word2": "oppose",
+    "def2": "to disagree with and attempt to prevent"
+  },
+  {
+    "difficulty": 307,
+    "word1": "correct",
+    "def1": "free from error; in accordance with fact or truth",
+    "word2": "right",
+    "def2": "morally good, justified, or acceptable"
+  },
+  {
+    "difficulty": 308,
+    "word1": "incorrect",
+    "def1": "not in accordance with fact; wrong",
+    "word2": "erroneous",
+    "def2": "wrong; incorrect"
+  },
+  {
+    "difficulty": 309,
+    "word1": "corrupt",
+    "def1": "having or showing a willingness to act dishonestly in return for money or personal gain",
+    "word2": "dishonest",
+    "def2": "behaving or prone to behave in an untrustworthy or fraudulent way"
+  },
+  {
+    "difficulty": 310,
+    "word1": "honest",
+    "def1": "free of deceit and untruthfulness; sincere",
+    "word2": "truthful",
+    "def2": "telling or disposed to tell the truth"
+  },
+  {
+    "difficulty": 311,
+    "word1": "create",
+    "def1": "to bring something into existence",
+    "word2": "produce",
+    "def2": "to make or manufacture from components or raw materials"
+  },
+  {
+    "difficulty": 312,
+    "word1": "destroy",
+    "def1": "to put an end to the existence of something by damaging or attacking it",
+    "word2": "ruin",
+    "def2": "to reduce to a state of decay, collapse, or disintegration"
+  },
+  {
+    "difficulty": 313,
+    "word1": "cruel",
+    "def1": "willfully causing pain or suffering to others, or feeling no concern about it",
+    "word2": "brutal",
+    "def2": "savagely violent"
+  },
+  {
+    "difficulty": 314,
+    "word1": "kind",
+    "def1": "having or showing a friendly, generous, and considerate nature",
+    "word2": "compassionate",
+    "def2": "feeling or showing sympathy and concern for others"
+  },
+  {
+    "difficulty": 315,
+    "word1": "cunning",
+    "def1": "having or showing skill in achieving one's ends by deceit or evasion",
+    "word2": "crafty",
+    "def2": "clever at achieving one's aims by indirect or deceitful methods"
+  },
+  {
+    "difficulty": 316,
+    "word1": "straightforward",
+    "def1": "uncomplicated and easy to do or understand",
+    "word2": "direct",
+    "def2": "extending or moving from one place to another by the shortest way without changing direction or stopping"
+  },
+  {
+    "difficulty": 317,
+    "word1": "curious",
+    "def1": "eager to know or learn something",
+    "word2": "inquisitive",
+    "def2": "curious or inquiring"
+  },
+  {
+    "difficulty": 318,
+    "word1": "apathetic",
+    "def1": "showing or feeling no interest, enthusiasm, or concern",
+    "word2": "indifferent",
+    "def2": "having no particular interest or sympathy; unconcerned"
+  },
+  {
+    "difficulty": 319,
+    "word1": "curse",
+    "def1": "a solemn utterance intended to invoke a supernatural power to inflict harm or punishment on someone or something",
+    "word2": "hex",
+    "def2": "to cast a spell on; bewitch"
+  },
+  {
+    "difficulty": 320,
+    "word1": "bless",
+    "def1": "to ask divine favor upon",
+    "word2": "sanctify",
+    "def2": "to set apart as or declare holy; consecrate"
+  },
+  {
+    "difficulty": 321,
+    "word1": "damage",
+    "def1": "to harm or impair something",
+    "word2": "harm",
+    "def2": "physical injury, especially that which is deliberately inflicted"
+  },
+  {
+    "difficulty": 322,
+    "word1": "repair",
+    "def1": "to fix or mend something that is broken or damaged",
+    "word2": "restore",
+    "def2": "to bring back or re-establish"
+  },
+  {
+    "difficulty": 323,
+    "word1": "dangerous",
+    "def1": "able or likely to cause harm",
+    "word2": "perilous",
+    "def2": "full of danger or risk"
+  },
+  {
+    "difficulty": 324,
+    "word1": "safe",
+    "def1": "protected from or not exposed to danger or risk",
+    "word2": "harmless",
+    "def2": "not able or likely to cause harm"
+  },
+  {
+    "difficulty": 325,
+    "word1": "dark",
+    "def1": "with little or no light",
+    "word2": "gloomy",
+    "def2": "dark or poorly lit, especially so as to appear depressing or frightening"
+  },
+  {
+    "difficulty": 326,
+    "word1": "light",
+    "def1": "the natural agent that stimulates sight and makes things visible",
+    "word2": "bright",
+    "def2": "giving out or reflecting a lot of light; shining"
+  },
+  {
+    "difficulty": 327,
+    "word1": "dazzle",
+    "def1": "to blind temporarily with a very bright light",
+    "word2": "blind",
+    "def2": "unable to see"
+  },
+  {
+    "difficulty": 328,
+    "word1": "dim",
+    "def1": "not bright or distinct; faint",
+    "word2": "faint",
+    "def2": "barely perceptible"
+  },
+  {
+    "difficulty": 329,
+    "word1": "dead",
+    "def1": "no longer alive",
+    "word2": "lifeless",
+    "def2": "without life; dead"
+  },
+  {
+    "difficulty": 330,
+    "word1": "alive",
+    "def1": "living, not dead",
+    "word2": "animate",
+    "def2": "alive; having life"
+  },
+  {
+    "difficulty": 331,
+    "word1": "dear",
+    "def1": "regarded with deep affection",
+    "word2": "beloved",
+    "def2": "dearly loved"
+  },
+  {
+    "difficulty": 332,
+    "word1": "disliked",
+    "def1": "regarded with distaste or hostility",
+    "word2": "unpopular",
+    "def2": "not popular or liked"
+  },
+  {
+    "difficulty": 333,
+    "word1": "deceptive",
+    "def1": "giving an appearance or impression different from the true one; misleading",
+    "word2": "misleading",
+    "def2": "giving the wrong idea or impression"
+  },
+  {
+    "difficulty": 334,
+    "word1": "honest",
+    "def1": "free of deceit and untruthfulness; sincere",
+    "word2": "genuine",
+    "def2": "truly what something is said to be; authentic"
+  },
+  {
+    "difficulty": 335,
+    "word1": "decisive",
+    "def1": "settling an issue; producing a definite result",
+    "word2": "conclusive",
+    "def2": "putting an end to debate or question especially by reason of irrefutability"
+  },
+  {
+    "difficulty": 336,
+    "word1": "uncertain",
+    "def1": "not able to be relied on; not known or definite",
+    "word2": "indecisive",
+    "def2": "not settling an issue; inconclusive"
+  },
+  {
+    "difficulty": 337,
+    "word1": "decline",
+    "def1": "to diminish gradually in strength or quality",
+    "word2": "deteriorate",
+    "def2": "to become progressively worse"
+  },
+  {
+    "difficulty": 338,
+    "word1": "improve",
+    "def1": "to make or become better",
+    "word2": "enhance",
+    "def2": "to intensify, increase, or further improve the quality, value, or extent of"
+  },
+  {
+    "difficulty": 339,
+    "word1": "decrease",
+    "def1": "to make or become smaller or fewer in size, amount, intensity, or degree",
+    "word2": "reduce",
+    "def2": "to make smaller or less in amount, degree, or size"
+  },
+  {
+    "difficulty": 340,
+    "word1": "increase",
+    "def1": "to become or make greater in size, amount, intensity, or degree",
+    "word2": "grow",
+    "def2": "to increase in size or amount"
+  },
+  {
+    "difficulty": 341,
+    "word1": "deep",
+    "def1": "extending far down from the top or surface",
+    "word2": "abyssal",
+    "def2": "relating to or denoting the depths or bed of the ocean"
+  },
+  {
+    "difficulty": 342,
+    "word1": "shallow",
+    "def1": "of little depth",
+    "word2": "superficial",
+    "def2": "existing or occurring at or on the surface"
+  },
+  {
+    "difficulty": 343,
+    "word1": "defeat",
+    "def1": "to win against in a battle or other contest",
+    "word2": "conquer",
+    "def2": "to overcome and take control of by military force"
+  },
+  {
+    "difficulty": 344,
+    "word1": "victory",
+    "def1": "an act of defeating an enemy or opponent in a battle, game, or other competition",
+    "word2": "triumph",
+    "def2": "a great victory or achievement"
+  },
+  {
+    "difficulty": 345,
+    "word1": "defective",
+    "def1": "imperfect or faulty",
+    "word2": "flawed",
+    "def2": "having or containing one or more flaws"
+  },
+  {
+    "difficulty": 346,
+    "word1": "perfect",
+    "def1": "having all the required or desirable elements, qualities, or characteristics",
+    "word2": "flawless",
+    "def2": "without any blemishes or imperfections; perfect"
+  },
+  {
+    "difficulty": 347,
+    "word1": "defend",
+    "def1": "to resist an attack made on someone or something; protect",
+    "word2": "shield",
+    "def2": "to protect someone or something from a danger, risk, or unpleasant experience"
+  },
+  {
+    "difficulty": 348,
+    "word1": "attack",
+    "def1": "to take aggressive action against someone or something",
+    "word2": "assail",
+    "def2": "to make a concerted or violent attack on"
+  },
+  {
+    "difficulty": 349,
+    "word1": "definite",
+    "def1": "clearly stated or decided; not vague or doubtful",
+    "word2": "certain",
+    "def2": "known for sure; established beyond doubt"
+  },
+  {
+    "difficulty": 350,
+    "word1": "vague",
+    "def1": "of uncertain, indefinite, or unclear character or meaning",
+    "word2": "ambiguous",
+    "def2": "open to more than one interpretation; having a double meaning"
+  },
+  {
+    "difficulty": 351,
+    "word1": "delight",
+    "def1": "great pleasure",
+    "word2": "joy",
+    "def2": "a feeling of great pleasure and happiness"
+  },
+  {
+    "difficulty": 352,
+    "word1": "misery",
+    "def1": "a state of suffering and want",
+    "word2": "distress",
+    "def2": "extreme anxiety, sorrow, or pain"
+  },
+  {
+    "difficulty": 353,
+    "word1": "delicate",
+    "def1": "very fine in texture or structure",
+    "word2": "fragile",
+    "def2": "easily broken or damaged"
+  },
+  {
+    "difficulty": 354,
+    "word1": "sturdy",
+    "def1": "strongly and solidly built",
+    "word2": "robust",
+    "def2": "strong and healthy; vigorous"
+  },
+  {
+    "difficulty": 355,
+    "word1": "deliberate",
+    "def1": "done consciously and intentionally",
+    "word2": "intentional",
+    "def2": "done on purpose; deliberate"
+  },
+  {
+    "difficulty": 356,
+    "word1": "accidental",
+    "def1": "happening by chance, unintentionally, or unexpectedly",
+    "word2": "unintentional",
+    "def2": "not deliberate or intended"
+  },
+  {
+    "difficulty": 357,
+    "word1": "delicious",
+    "def1": "highly pleasant to the taste",
+    "word2": "tasty",
+    "def2": "having a pleasant flavor"
+  },
+  {
+    "difficulty": 358,
+    "word1": "disgusting",
+    "def1": "causing strong feelings of revulsion or disgust; nauseating",
+    "word2": "repulsive",
+    "def2": "causing disgust or strong dislike"
+  },
+  {
+    "difficulty": 359,
+    "word1": "demand",
+    "def1": "to ask for something forcefully",
+    "word2": "require",
+    "def2": "to need something; to make something necessary"
+  },
+  {
+    "difficulty": 360,
+    "word1": "offer",
+    "def1": "to present something for acceptance or rejection",
+    "word2": "propose",
+    "def2": "to put forward an idea or plan for consideration"
+  },
+  {
+    "difficulty": 361,
+    "word1": "democracy",
+    "def1": "a system of government by the whole population or all eligible members of a state",
+    "word2": "republic",
+    "def2": "a state in which supreme power is held by the people and their elected representatives"
+  },
+  {
+    "difficulty": 362,
+    "word1": "autocracy",
+    "def1": "a system of government by one person with absolute power",
+    "word2": "dictatorship",
+    "def2": "government by a dictator"
+  },
+  {
+    "difficulty": 363,
+    "word1": "dense",
+    "def1": "closely compacted in substance",
+    "word2": "compact",
+    "def2": "closely and neatly packed together; dense"
+  },
+  {
+    "difficulty": 364,
+    "word1": "sparse",
+    "def1": "thinly dispersed or scattered",
+    "word2": "scattered",
+    "def2": "occurring or distributed over widely spaced and irregular intervals in time or space"
+  },
+  {
+    "difficulty": 365,
+    "word1": "deny",
+    "def1": "state that one refuses to admit the truth or existence of",
+    "word2": "reject",
+    "def2": "dismiss as inadequate, inappropriate, or not to one's taste"
+  },
+  {
+    "difficulty": 366,
+    "word1": "confirm",
+    "def1": "establish the truth or correctness of something previously believed",
+    "word2": "validate",
+    "def2": "check or prove the validity or accuracy of something"
+  },
+  {
+    "difficulty": 367,
+    "word1": "dependent",
+    "def1": "requiring someone or something for financial or other support",
+    "word2": "reliant",
+    "def2": "dependent on someone or something"
+  },
+  {
+    "difficulty": 368,
+    "word1": "independent",
+    "def1": "free from outside control; not depending on another's authority",
+    "word2": "autonomous",
+    "def2": "having the freedom to govern itself or control its own affairs"
+  },
+  {
+    "difficulty": 369,
+    "word1": "deprive",
+    "def1": "deny a person or place the possession or use of something",
+    "word2": "withhold",
+    "def2": "refuse to give something that is due or desired"
+  },
+  {
+    "difficulty": 370,
+    "word1": "provide",
+    "def1": "make available for use; supply",
+    "word2": "furnish",
+    "def2": "supply someone with something"
+  },
+  {
+    "difficulty": 371,
+    "word1": "descend",
+    "def1": "move or fall downward",
+    "word2": "plummet",
+    "def2": "fall or drop straight down at high speed"
+  },
+  {
+    "difficulty": 372,
+    "word1": "ascend",
+    "def1": "go up or climb",
+    "word2": "rise",
+    "def2": "move from a lower position to a higher one; come or go up"
+  },
+  {
+    "difficulty": 373,
+    "word1": "describe",
+    "def1": "give a detailed account in words of",
+    "word2": "depict",
+    "def2": "show or represent by a drawing, painting, or other art form"
+  },
+  {
+    "difficulty": 374,
+    "word1": "conceal",
+    "def1": "keep from sight; hide",
+    "word2": "obscure",
+    "def2": "not discovered or known about; uncertain"
+  },
+  {
+    "difficulty": 375,
+    "word1": "desire",
+    "def1": "strongly wish for or want",
+    "word2": "crave",
+    "def2": "feel a powerful desire for something"
+  },
+  {
+    "difficulty": 376,
+    "word1": "detest",
+    "def1": "dislike intensely",
+    "word2": "abhor",
+    "def2": "regard with disgust and hatred"
+  },
+  {
+    "difficulty": 377,
+    "word1": "despair",
+    "def1": "the complete loss or absence of hope",
+    "word2": "hopelessness",
+    "def2": "a feeling of despair or extreme pessimism"
+  },
+  {
+    "difficulty": 378,
+    "word1": "hope",
+    "def1": "a feeling of expectation and desire for a certain thing to happen",
+    "word2": "optimism",
+    "def2": "hopefulness and confidence about the future or the successful outcome of something"
+  },
+  {
+    "difficulty": 379,
+    "word1": "destroy",
+    "def1": "put an end to the existence of something by damaging or attacking it",
+    "word2": "obliterate",
+    "def2": "destroy utterly; wipe out"
+  },
+  {
+    "difficulty": 380,
+    "word1": "create",
+    "def1": "bring something into existence",
+    "word2": "generate",
+    "def2": "produce or create"
+  },
+  {
+    "difficulty": 381,
+    "word1": "determine",
+    "def1": "cause something to occur in a particular way or to have a particular nature",
+    "word2": "decide",
+    "def2": "come to a resolution in the mind as a result of consideration"
+  },
+  {
+    "difficulty": 382,
+    "word1": "waver",
+    "def1": "move in a quivering way; flicker",
+    "word2": "fluctuate",
+    "def2": "rise and fall irregularly in number or amount"
+  },
+  {
+    "difficulty": 383,
+    "word1": "detrimental",
+    "def1": "tending to cause harm",
+    "word2": "harmful",
+    "def2": "causing or likely to cause harm"
+  },
+  {
+    "difficulty": 384,
+    "word1": "beneficial",
+    "def1": "resulting in good; favorable or advantageous",
+    "word2": "helpful",
+    "def2": "giving or ready to give help"
+  },
+  {
+    "difficulty": 385,
+    "word1": "devastate",
+    "def1": "destroy or ruin",
+    "word2": "ravage",
+    "def2": "cause severe and extensive damage to"
+  },
+  {
+    "difficulty": 386,
+    "word1": "restore",
+    "def1": "return someone or something to a former condition, place, or position",
+    "word2": "revive",
+    "def2": "restore to life or consciousness"
+  },
+  {
+    "difficulty": 387,
+    "word1": "develop",
+    "def1": "grow or cause to grow and become more mature, advanced, or elaborate",
+    "word2": "evolve",
+    "def2": "develop gradually, especially from a simple to a more complex form"
+  },
+  {
+    "difficulty": 388,
+    "word1": "regress",
+    "def1": "return to a former or less developed state",
+    "word2": "retreat",
+    "def2": "go back or withdraw"
+  },
+  {
+    "difficulty": 389,
+    "word1": "devious",
+    "def1": "showing a skillful use of underhand tactics to achieve goals",
+    "word2": "sly",
+    "def2": "having or showing a cunning and deceitful nature"
+  },
+  {
+    "difficulty": 390,
+    "word1": "straightforward",
+    "def1": "uncomplicated and easy to do or understand",
+    "word2": "honest",
+    "def2": "free of deceit and untruthfulness; sincere"
+  },
+  {
+    "difficulty": 391,
+    "word1": "devote",
+    "def1": "give all or most of one's time or resources to a person or activity",
+    "word2": "dedicate",
+    "def2": "devote time, effort, or oneself to a particular task or purpose"
+  },
+  {
+    "difficulty": 392,
+    "word1": "neglect",
+    "def1": "fail to care for properly",
+    "word2": "disregard",
+    "def2": "to pay no attention to; ignore"
+  },
+  {
+    "difficulty": 393,
+    "word1": "dexterous",
+    "def1": "showing or having skill, especially with the hands",
+    "word2": "adroit",
+    "def2": "clever or skillful"
+  },
+  {
+    "difficulty": 394,
+    "word1": "clumsy",
+    "def1": "awkward in movement or in handling things",
+    "word2": "maladroit",
+    "def2": "ineffective or bungling; clumsy"
+  },
+  {
+    "difficulty": 395,
+    "word1": "difficult",
+    "def1": "needing much effort or skill to accomplish",
+    "word2": "arduous",
+    "def2": "involving or requiring strenuous effort; difficult and tiring"
+  },
+  {
+    "difficulty": 396,
+    "word1": "easy",
+    "def1": "achieved without great effort; presenting few difficulties",
+    "word2": "simple",
+    "def2": "easily understood or done; presenting no difficulty"
+  },
+  {
+    "difficulty": 397,
+    "word1": "diligent",
+    "def1": "having or showing care and conscientiousness in one's work or duties",
+    "word2": "assiduous",
+    "def2": "showing great care, attention, and effort"
+  },
+  {
+    "difficulty": 398,
+    "word1": "lazy",
+    "def1": "unwilling to work or use energy",
+    "word2": "indolent",
+    "def2": "wanting to avoid activity or exertion; lazy"
+  },
+  {
+    "difficulty": 399,
+    "word1": "dim",
+    "def1": "not bright or distinct; faint",
+    "word2": "murky",
+    "def2": "dark and gloomy"
+  },
+  {
+    "difficulty": 400,
+    "word1": "luminous",
+    "def1": "giving off light; bright or shining",
+    "word2": "radiant",
+    "def2": "sending out light; shining or glowing brightly"
+  },
+  {
+    "difficulty": 401,
+    "word1": "direct",
+    "def1": "extending or moving from one place to another by the shortest way without changing direction",
+    "word2": "straight",
+    "def2": "extending or moving uniformly in one direction only; without a curve or bend"
+  },
+  {
+    "difficulty": 402,
+    "word1": "indirect",
+    "def1": "not going straight to the point",
+    "word2": "circuitous",
+    "def2": "longer than the most direct way"
+  },
+  {
+    "difficulty": 403,
+    "word1": "dirty",
+    "def1": "covered or marked with an unclean substance",
+    "word2": "filthy",
+    "def2": "disgustingly dirty"
+  },
+  {
+    "difficulty": 404,
+    "word1": "clean",
+    "def1": "free from dirt, marks, or stains",
+    "word2": "pristine",
+    "def2": "in its original condition; unspoiled"
+  },
+  {
+    "difficulty": 405,
+    "word1": "disadvantage",
+    "def1": "a condition or circumstance that puts one in an unfavorable position",
+    "word2": "drawback",
+    "def2": "a feature that renders something less acceptable; a disadvantage or problem"
+  },
+  {
+    "difficulty": 406,
+    "word1": "advantage",
+    "def1": "a condition or circumstance that puts one in a favorable position",
+    "word2": "benefit",
+    "def2": "an advantage or profit gained from something"
+  },
+  {
+    "difficulty": 407,
+    "word1": "disagree",
+    "def1": "have or express a different opinion",
+    "word2": "differ",
+    "def2": "be unlike or dissimilar"
+  },
+  {
+    "difficulty": 408,
+    "word1": "agree",
+    "def1": "have the same opinion about something; concur",
+    "word2": "concur",
+    "def2": "be of the same opinion; agree"
+  },
+  {
+    "difficulty": 409,
+    "word1": "disappear",
+    "def1": "cease to be visible",
+    "word2": "vanish",
+    "def2": "disappear suddenly and completely"
+  },
+  {
+    "difficulty": 410,
+    "word1": "appear",
+    "def1": "come into sight; become visible",
+    "word2": "emerge",
+    "def2": "move out of or away from something and become visible"
+  },
+  {
+    "difficulty": 411,
+    "word1": "disaster",
+    "def1": "a sudden event, such as an accident or a natural catastrophe, that causes great damage or loss of life",
+    "word2": "catastrophe",
+    "def2": "an event causing great and often sudden damage or suffering; a disaster"
+  },
+  {
+    "difficulty": 412,
+    "word1": "success",
+    "def1": "the accomplishment of an aim or purpose",
+    "word2": "triumph",
+    "def2": "a great victory or achievement"
+  },
+  {
+    "difficulty": 413,
+    "word1": "discard",
+    "def1": "get rid of something as no longer useful or desirable",
+    "word2": "jettison",
+    "def2": "throw or drop something from an aircraft or ship"
+  },
+  {
+    "difficulty": 414,
+    "word1": "retain",
+    "def1": "continue to have something; keep possession of",
+    "word2": "preserve",
+    "def2": "maintain something in its original or existing state"
+  },
+  {
+    "difficulty": 415,
+    "word1": "discipline",
+    "def1": "the practice of training people to obey rules or a code of behavior",
+    "word2": "control",
+    "def2": "the power to influence or direct people's behavior or the course of events"
+  },
+  {
+    "difficulty": 416,
+    "word1": "chaos",
+    "def1": "complete disorder and confusion",
+    "word2": "disarray",
+    "def2": "a state of disorganization or untidiness"
+  },
+  {
+    "difficulty": 417,
+    "word1": "discomfort",
+    "def1": "slight pain or physical unease",
+    "word2": "uneasiness",
+    "def2": "the condition of being uneasy; anxiety or discontent"
+  },
+  {
+    "difficulty": 418,
+    "word1": "comfort",
+    "def1": "a state of physical ease and freedom from pain or constraint",
+    "word2": "ease",
+    "def2": "absence of difficulty or effort"
+  },
+  {
+    "difficulty": 419,
+    "word1": "discourage",
+    "def1": "cause someone to lose confidence or enthusiasm",
+    "word2": "dishearten",
+    "def2": "cause someone to lose determination or confidence"
+  },
+  {
+    "difficulty": 420,
+    "word1": "encourage",
+    "def1": "give support, confidence, or hope to someone",
+    "word2": "inspire",
+    "def2": "fill someone with the urge or ability to do or feel something"
+  },
+  {
+    "difficulty": 421,
+    "word1": "discover",
+    "def1": "find unexpectedly or during a search",
+    "word2": "uncover",
+    "def2": "reveal or make known"
+  },
+  {
+    "difficulty": 422,
+    "word1": "conceal",
+    "def1": "keep from sight; hide",
+    "word2": "mask",
+    "def2": "conceal from view"
+  },
+  {
+    "difficulty": 423,
+    "word1": "discriminate",
+    "def1": "recognize a distinction; differentiate",
+    "word2": "distinguish",
+    "def2": "recognize or treat someone or something as different"
+  },
+  {
+    "difficulty": 424,
+    "word1": "equate",
+    "def1": "consider one thing to be the same as or equivalent to another",
+    "word2": "associate",
+    "def2": "connect someone or something in the mind with someone or something else"
+  },
+  {
+    "difficulty": 425,
+    "word1": "discuss",
+    "def1": "talk about a specific subject in detail",
+    "word2": "debate",
+    "def2": "argue about a subject, especially in a formal manner"
+  },
+  {
+    "difficulty": 426,
+    "word1": "silence",
+    "def1": "the complete absence of sound",
+    "word2": "quietness",
+    "def2": "the state of being quiet"
+  },
+  {
+    "difficulty": 427,
+    "word1": "disdain",
+    "def1": "the feeling that someone or something is unworthy of one's consideration or respect",
+    "word2": "contempt",
+    "def2": "the feeling that a person or a thing is beneath consideration"
+  },
+  {
+    "difficulty": 428,
+    "word1": "admire",
+    "def1": "regard with respect or warm approval",
+    "word2": "esteem",
+    "def2": "respect and admiration"
+  },
+  {
+    "difficulty": 429,
+    "word1": "disgrace",
+    "def1": "loss of reputation or respect as the result of a dishonorable action",
+    "word2": "dishonor",
+    "def2": "loss of honor or reputation; shame"
+  },
+  {
+    "difficulty": 430,
+    "word1": "honor",
+    "def1": "high respect; great esteem",
+    "word2": "esteem",
+    "def2": "respect and admiration"
+  },
+  {
+    "difficulty": 431,
+    "word1": "disgust",
+    "def1": "a feeling of revulsion or profound disapproval aroused by something unpleasant or offensive",
+    "word2": "revulsion",
+    "def2": "a sense of loathing and disgust"
+  },
+  {
+    "difficulty": 432,
+    "word1": "delight",
+    "def1": "great pleasure",
+    "word2": "pleasure",
+    "def2": "a feeling of happy satisfaction and enjoyment"
+  },
+  {
+    "difficulty": 433,
+    "word1": "dislike",
+    "def1": "feel distaste for or hostility toward",
+    "word2": "aversion",
+    "def2": "a strong dislike or disinclination"
+  },
+  {
+    "difficulty": 434,
+    "word1": "preference",
+    "def1": "a greater liking for one alternative over another",
+    "word2": "fondness",
+    "def2": "affection or liking for someone or something"
+  },
+  {
+    "difficulty": 435,
+    "word1": "dismiss",
+    "def1": "order or allow to leave; send away",
+    "word2": "discharge",
+    "def2": "tell someone officially that they can or must leave"
+  },
+  {
+    "difficulty": 436,
+    "word1": "retain",
+    "def1": "continue to have something; keep possession of",
+    "word2": "keep",
+    "def2": "have or retain possession of"
+  },
+  {
+    "difficulty": 437,
+    "word1": "disorder",
+    "def1": "a state of confusion",
+    "word2": "disarray",
+    "def2": "a state of disorganization or untidiness"
+  },
+  {
+    "difficulty": 438,
+    "word1": "order",
+    "def1": "a state in which everything is in its correct or appropriate place",
+    "word2": "arrangement",
+    "def2": "the action, process, or result of arranging or being arranged"
+  },
+  {
+    "difficulty": 439,
+    "word1": "disperse",
+    "def1": "distribute or spread over a wide area",
+    "word2": "scatter",
+    "def2": "throw in various random directions"
+  },
+  {
+    "difficulty": 440,
+    "word1": "gather",
+    "def1": "bring together and take in from scattered places or sources",
+    "word2": "collect",
+    "def2": "bring or gather together"
+  },
+  {
+    "difficulty": 441,
+    "word1": "displease",
+    "def1": "cause annoyance or discomfort to",
+    "word2": "annoy",
+    "def2": "make someone a little angry"
+  },
+  {
+    "difficulty": 442,
+    "word1": "please",
+    "def1": "cause satisfaction or pleasure to",
+    "word2": "satisfy",
+    "def2": "meet the expectations, needs, or desires of"
+  },
+  {
+    "difficulty": 443,
+    "word1": "display",
+    "def1": "a performance, show, or event intended for public entertainment",
+    "word2": "exhibit",
+    "def2": "publicly display a work of art or item of interest"
+  },
+  {
+    "difficulty": 444,
+    "word1": "hide",
+    "def1": "put or keep out of sight",
+    "word2": "conceal",
+    "def2": "keep from sight; hide"
+  },
+  {
+    "difficulty": 445,
+    "word1": "dispute",
+    "def1": "a disagreement, argument, or debate",
+    "word2": "contention",
+    "def2": "heated disagreement"
+  },
+  {
+    "difficulty": 446,
+    "word1": "agreement",
+    "def1": "harmony or accordance in opinion or feeling",
+    "word2": "consensus",
+    "def2": "a general agreement"
+  },
+  {
+    "difficulty": 447,
+    "word1": "dissent",
+    "def1": "the expression or holding of opinions at variance with those previously, commonly, or officially held",
+    "word2": "disagreement",
+    "def2": "a difference of opinion or feeling"
+  },
+  {
+    "difficulty": 448,
+    "word1": "consent",
+    "def1": "permission for something to happen or agreement to do something",
+    "word2": "approval",
+    "def2": "the action of approving something"
+  },
+  {
+    "difficulty": 449,
+    "word1": "dissolve",
+    "def1": "make a substance become part of a liquid",
+    "word2": "liquefy",
+    "def2": "make or become liquid"
+  },
+  {
+    "difficulty": 450,
+    "word1": "solidify",
+    "def1": "make or become hard or solid",
+    "word2": "harden",
+    "def2": "make or become hard or harder"
+  },
+  {
+    "difficulty": 451,
+    "word1": "distance",
+    "def1": "the length of space between two points",
+    "word2": "remoteness",
+    "def2": "the quality of being far away in space or time"
+  },
+  {
+    "difficulty": 452,
+    "word1": "proximity",
+    "def1": "nearness in space, time, or relationship",
+    "word2": "closeness",
+    "def2": "the state of being near in space or time"
+  },
+  {
+    "difficulty": 453,
+    "word1": "distinct",
+    "def1": "recognizably different in nature from something else",
+    "word2": "separate",
+    "def2": "forming or viewed as a unit apart or by itself"
+  },
+  {
+    "difficulty": 454,
+    "word1": "identical",
+    "def1": "similar in every detail; exactly alike",
+    "word2": "same",
+    "def2": "identical; not different"
+  },
+  {
+    "difficulty": 455,
+    "word1": "distinguish",
+    "def1": "recognize or treat as different",
+    "word2": "differentiate",
+    "def2": "recognize or ascertain what makes someone or something different"
+  },
+  {
+    "difficulty": 456,
+    "word1": "confuse",
+    "def1": "cause someone to become bewildered or perplexed",
+    "word2": "mix up",
+    "def2": "confuse one thing with another"
+  },
+  {
+    "difficulty": 457,
+    "word1": "disturb",
+    "def1": "interfere with the normal arrangement or functioning of",
+    "word2": "disrupt",
+    "def2": "interrupt the normal course or unity of"
+  },
+  {
+    "difficulty": 458,
+    "word1": "calm",
+    "def1": "not showing or feeling nervousness, anger, or other strong emotions",
+    "word2": "pacify",
+    "def2": "quell the anger, agitation, or excitement of"
+  },
+  {
+    "difficulty": 459,
+    "word1": "diverse",
+    "def1": "showing a great deal of variety; very different",
+    "word2": "varied",
+    "def2": "incorporating a number of different types or elements"
+  },
+  {
+    "difficulty": 460,
+    "word1": "uniform",
+    "def1": "remaining the same in all cases and at all times",
+    "word2": "consistent",
+    "def2": "acting or done in the same way over time"
+  },
+  {
+    "difficulty": 461,
+    "word1": "divide",
+    "def1": "separate or be separated into parts",
+    "word2": "split",
+    "def2": "break or cause to break forcibly into parts"
+  },
+  {
+    "difficulty": 462,
+    "word1": "unite",
+    "def1": "come or bring together for a common purpose or action",
+    "word2": "combine",
+    "def2": "join or merge to form a single unit or substance"
+  },
+  {
+    "difficulty": 463,
+    "word1": "divine",
+    "def1": "of, from, or like God or a god",
+    "word2": "godly",
+    "def2": "devoutly religious; pious"
+  },
+  {
+    "difficulty": 464,
+    "word1": "earthly",
+    "def1": "relating to the earth or human life rather than heaven or spiritual matters",
+    "word2": "mundane",
+    "def2": "lacking interest or excitement; dull"
+  },
+  {
+    "difficulty": 465,
+    "word1": "dizzy",
+    "def1": "having or involving a sensation of spinning around and losing one's balance",
+    "word2": "giddy",
+    "def2": "having a sensation of whirling and a tendency to fall or stagger"
+  },
+  {
+    "difficulty": 466,
+    "word1": "stable",
+    "def1": "firmly fixed or not likely to move or change",
+    "word2": "steady",
+    "def2": "firmly fixed, supported, or balanced; not shaking or moving"
+  },
+  {
+    "difficulty": 467,
+    "word1": "docile",
+    "def1": "ready to accept control or instruction; submissive",
+    "word2": "obedient",
+    "def2": "complying or willing to comply with an order or request"
+  },
+  {
+    "difficulty": 468,
+    "word1": "rebellious",
+    "def1": "showing a desire to resist authority, control, or convention",
+    "word2": "defiant",
+    "def2": "showing defiance"
+  },
+  {
+    "difficulty": 469,
+    "word1": "dominate",
+    "def1": "have a commanding influence on; exercise control over",
+    "word2": "control",
+    "def2": "determine the behavior or supervise the running of"
+  },
+  {
+    "difficulty": 470,
+    "word1": "submit",
+    "def1": "accept or yield to a superior force or to the authority or will of another person",
+    "word2": "surrender",
+    "def2": "cease resistance to an enemy or opponent and submit to their authority"
+  },
+  {
+    "difficulty": 471,
+    "word1": "doubt",
+    "def1": "a feeling of uncertainty or lack of conviction",
+    "word2": "skepticism",
+    "def2": "a questioning attitude or doubt as to the truth of something"
+  },
+  {
+    "difficulty": 472,
+    "word1": "certainty",
+    "def1": "firm conviction that something is the case",
+    "word2": "conviction",
+    "def2": "a firmly held belief or opinion"
+  },
+  {
+    "difficulty": 473,
+    "word1": "dread",
+    "def1": "anticipate with great apprehension or fear",
+    "word2": "fear",
+    "def2": "be afraid of someone or something as likely to be dangerous"
+  },
+  {
+    "difficulty": 474,
+    "word1": "welcome",
+    "def1": "greet hospitably and with pleasure",
+    "word2": "embrace",
+    "def2": "accept or support willingly and enthusiastically"
+  },
+  {
+    "difficulty": 475,
+    "word1": "drowsy",
+    "def1": "sleepy and lethargic; half-asleep",
+    "word2": "sleepy",
+    "def2": "needing or ready for sleep"
+  },
+  {
+    "difficulty": 476,
+    "word1": "alert",
+    "def1": "quick to notice any unusual and potentially dangerous or difficult circumstances",
+    "word2": "vigilant",
+    "def2": "keeping careful watch for possible danger or difficulties"
+  },
+  {
+    "difficulty": 477,
+    "word1": "dull",
+    "def1": "lacking interest or excitement",
+    "word2": "tedious",
+    "def2": "too long, slow, or dull; tiresome or monotonous"
+  },
+  {
+    "difficulty": 478,
+    "word1": "exciting",
+    "def1": "causing great enthusiasm and eagerness",
+    "word2": "thrilling",
+    "def2": "causing excitement and pleasure; exhilarating"
+  },
+  {
+    "difficulty": 479,
+    "word1": "durable",
+    "def1": "able to withstand wear, pressure, or damage; hard-wearing",
+    "word2": "sturdy",
+    "def2": "strongly and solidly built"
+  },
+  {
+    "difficulty": 480,
+    "word1": "fragile",
+    "def1": "easily broken, damaged, or destroyed",
+    "word2": "delicate",
+    "def2": "very fine in texture or structure; easy to harm or damage"
+  },
+  {
+    "difficulty": 481,
+    "word1": "eager",
+    "def1": "strongly wanting to do or have something",
+    "word2": "keen",
+    "def2": "having or showing eagerness or enthusiasm"
+  },
+  {
+    "difficulty": 482,
+    "word1": "reluctant",
+    "def1": "unwilling and hesitant; disinclined",
+    "word2": "hesitant",
+    "def2": "tentative, unsure, or slow in acting or speaking"
+  },
+  {
+    "difficulty": 483,
+    "word1": "earnest",
+    "def1": "resulting from or showing sincere and intense conviction",
+    "word2": "sincere",
+    "def2": "free from pretense or deceit; proceeding from genuine feelings"
+  },
+  {
+    "difficulty": 484,
+    "word1": "insincere",
+    "def1": "not expressing genuine feelings",
+    "word2": "fake",
+    "def2": "not genuine; imitation or counterfeit"
+  },
+  {
+    "difficulty": 485,
+    "word1": "ease",
+    "def1": "absence of difficulty or effort",
+    "word2": "facility",
+    "def2": "an ability to do or learn something well and easily"
+  },
+  {
+    "difficulty": 486,
+    "word1": "difficulty",
+    "def1": "the state or quality of being hard to do or accomplish",
+    "word2": "hardship",
+    "def2": "severe suffering or privation"
+  },
+  {
+    "difficulty": 487,
+    "word1": "eccentric",
+    "def1": "departing from a recognized, conventional, or established norm or pattern",
+    "word2": "peculiar",
+    "def2": "different from the usual or normal"
+  },
+  {
+    "difficulty": 488,
+    "word1": "conventional",
+    "def1": "based on or in accordance with what is generally done or believed",
+    "word2": "traditional",
+    "def2": "existing in or as part of a tradition; long-established"
+  },
+  {
+    "difficulty": 489,
+    "word1": "economical",
+    "def1": "providing good value or service in relation to the amount of money, time, or effort spent",
+    "word2": "thrifty",
+    "def2": "using money and other resources carefully and not wastefully"
+  },
+  {
+    "difficulty": 490,
+    "word1": "wasteful",
+    "def1": "using or expending something of value carelessly, extravagantly, or to no purpose",
+    "word2": "extravagant",
+    "def2": "lacking restraint in spending money or using resources"
+  },
+  {
+    "difficulty": 491,
+    "word1": "edible",
+    "def1": "fit or suitable to be eaten",
+    "word2": "consumable",
+    "def2": "able to be consumed"
+  },
+  {
+    "difficulty": 492,
+    "word1": "inedible",
+    "def1": "not fit or suitable to be eaten",
+    "word2": "uneatable",
+    "def2": "not suitable or fit for eating"
+  },
+  {
+    "difficulty": 493,
+    "word1": "educate",
+    "def1": "give intellectual, moral, and social instruction to someone",
+    "word2": "teach",
+    "def2": "impart knowledge to or instruct someone as to how to do something"
+  },
+  {
+    "difficulty": 494,
+    "word1": "misguide",
+    "def1": "lead or guide wrongly",
+    "word2": "mislead",
+    "def2": "cause someone to have a wrong idea or impression"
+  },
+  {
+    "difficulty": 495,
+    "word1": "effective",
+    "def1": "successful in producing a desired or intended result",
+    "word2": "efficient",
+    "def2": "achieving maximum productivity with minimum wasted effort or expense"
+  },
+  {
+    "difficulty": 496,
+    "word1": "ineffective",
+    "def1": "not producing any significant or desired effect",
+    "word2": "futile",
+    "def2": "incapable of producing any useful result; pointless"
+  },
+  {
+    "difficulty": 497,
+    "word1": "effortless",
+    "def1": "requiring no physical or mental exertion",
+    "word2": "easy",
+    "def2": "achieved without great effort; presenting few difficulties"
+  },
+  {
+    "difficulty": 498,
+    "word1": "laborious",
+    "def1": "requiring considerable effort and time",
+    "word2": "arduous",
+    "def2": "involving or requiring strenuous effort; difficult and tiring"
+  },
+  {
+    "difficulty": 499,
+    "word1": "elaborate",
+    "def1": "involving many carefully arranged parts or details; detailed and complicated in design and planning",
+    "word2": "complex",
+    "def2": "consisting of many different and connected parts"
+  },
+  {
+    "difficulty": 500,
+    "word1": "simple",
+    "def1": "easily understood or done; presenting no difficulty",
+    "word2": "plain",
+    "def2": "not decorated or elaborate; simple or basic in character"
+  },
+  {
+    "difficulty": 501,
+    "word1": "elastic",
+    "def1": "able to resume its normal shape spontaneously after contraction or expansion",
+    "word2": "flexible",
+    "def2": "capable of bending easily without breaking"
+  },
+  {
+    "difficulty": 502,
+    "word1": "rigid",
+    "def1": "unable to bend or be forced out of shape; not flexible",
+    "word2": "inflexible",
+    "def2": "not able to be bent or changed easily"
+  },
+  {
+    "difficulty": 503,
+    "word1": "elderly",
+    "def1": "rather old; past middle age",
+    "word2": "aged",
+    "def2": "having lived or existed for a long time"
+  },
+  {
+    "difficulty": 504,
+    "word1": "young",
+    "def1": "having lived or existed for only a short time",
+    "word2": "juvenile",
+    "def2": "of, for, or relating to young people"
+  },
+  {
+    "difficulty": 505,
+    "word1": "elegant",
+    "def1": "graceful and stylish in appearance or manner",
+    "word2": "refined",
+    "def2": "elegant and cultured in appearance, manner, or taste"
+  },
+  {
+    "difficulty": 506,
+    "word1": "awkward",
+    "def1": "causing difficulty; hard to do or deal with",
+    "word2": "ungainly",
+    "def2": "lacking grace or ease of movement or form"
+  },
+  {
+    "difficulty": 507,
+    "word1": "elevate",
+    "def1": "raise or lift something up to a higher position",
+    "word2": "raise",
+    "def2": "lift or move to a higher position or level"
+  },
+  {
+    "difficulty": 508,
+    "word1": "lower",
+    "def1": "move something or someone to a lower position",
+    "word2": "demote",
+    "def2": "move someone to a lower position or rank"
+  },
+  {
+    "difficulty": 509,
+    "word1": "eliminate",
+    "def1": "completely remove or get rid of something",
+    "word2": "eradicate",
+    "def2": "destroy completely; put an end to"
+  },
+  {
+    "difficulty": 510,
+    "word1": "introduce",
+    "def1": "bring something into existence or use for the first time",
+    "word2": "establish",
+    "def2": "set up on a firm or permanent basis"
+  },
+  {
+    "difficulty": 511,
+    "word1": "eloquent",
+    "def1": "fluent or persuasive in speaking or writing",
+    "word2": "articulate",
+    "def2": "having or showing the ability to speak fluently and coherently"
+  },
+  {
+    "difficulty": 512,
+    "word1": "inarticulate",
+    "def1": "unable to express one's ideas or feelings clearly or easily",
+    "word2": "speechless",
+    "def2": "unable to speak, especially as the temporary result of shock or strong emotion"
+  },
+  {
+    "difficulty": 513,
+    "word1": "embarrass",
+    "def1": "cause someone to feel awkward, self-conscious, or ashamed",
+    "word2": "humiliate",
+    "def2": "make someone feel ashamed and foolish by injuring their dignity and self-respect"
+  },
+  {
+    "difficulty": 514,
+    "word1": "comfort",
+    "def1": "ease the grief or distress of; console",
+    "word2": "console",
+    "def2": "comfort someone at a time of grief or disappointment"
+  },
+  {
+    "difficulty": 515,
+    "word1": "embrace",
+    "def1": "accept or support willingly and enthusiastically",
+    "word2": "adopt",
+    "def2": "choose to take up, follow, or use"
+  },
+  {
+    "difficulty": 516,
+    "word1": "reject",
+    "def1": "dismiss as inadequate, inappropriate, or not to one's taste",
+    "word2": "spurn",
+    "def2": "reject with disdain or contempt"
+  },
+  {
+    "difficulty": 517,
+    "word1": "emerge",
+    "def1": "move out of or away from something and come into view",
+    "word2": "surface",
+    "def2": "rise or come up to the surface of the water or other liquid"
+  },
+  {
+    "difficulty": 518,
+    "word1": "submerge",
+    "def1": "go under or cause to go under water or another liquid",
+    "word2": "immerse",
+    "def2": "dip or submerge in a liquid"
+  },
+  {
+    "difficulty": 519,
+    "word1": "emphasize",
+    "def1": "give special importance or prominence to something in speaking or writing",
+    "word2": "stress",
+    "def2": "give particular emphasis or importance to"
+  },
+  {
+    "difficulty": 520,
+    "word1": "downplay",
+    "def1": "make something appear less important than it really is",
+    "word2": "minimize",
+    "def2": "reduce something to the smallest possible amount or degree"
+  },
+  {
+    "difficulty": 521,
+    "word1": "employ",
+    "def1": "give work to someone and pay them for it",
+    "word2": "hire",
+    "def2": "employ someone for wages"
+  },
+  {
+    "difficulty": 522,
+    "word1": "fire",
+    "def1": "dismiss from employment",
+    "word2": "discharge",
+    "def2": "dismiss from employment or service"
+  },
+  {
+    "difficulty": 523,
+    "word1": "empty",
+    "def1": "containing nothing; not filled or occupied",
+    "word2": "vacant",
+    "def2": "not occupied; not in use"
+  },
+  {
+    "difficulty": 524,
+    "word1": "full",
+    "def1": "containing or holding as much or as many as possible",
+    "word2": "filled",
+    "def2": "made full; having no empty space"
+  },
+  {
+    "difficulty": 525,
+    "word1": "enable",
+    "def1": "give someone the authority or means to do something",
+    "word2": "empower",
+    "def2": "give someone the authority or power to do something"
+  },
+  {
+    "difficulty": 526,
+    "word1": "disable",
+    "def1": "put out of action by disconnecting or destroying",
+    "word2": "deactivate",
+    "def2": "make inactive"
+  },
+  {
+    "difficulty": 527,
+    "word1": "enchant",
+    "def1": "fill someone with great delight; charm",
+    "word2": "captivate",
+    "def2": "attract and hold the interest and attention of; charm"
+  },
+  {
+    "difficulty": 528,
+    "word1": "repel",
+    "def1": "drive or force back",
+    "word2": "repulse",
+    "def2": "drive back by force"
+  },
+  {
+    "difficulty": 529,
+    "word1": "encourage",
+    "def1": "give support, confidence, or hope to someone",
+    "word2": "motivate",
+    "def2": "provide someone with a reason for doing something"
+  },
+  {
+    "difficulty": 530,
+    "word1": "discourage",
+    "def1": "cause someone to lose confidence or enthusiasm",
+    "word2": "deter",
+    "def2": "discourage someone from doing something"
+  },
+  {
+    "difficulty": 531,
+    "word1": "end",
+    "def1": "a final part or point",
+    "word2": "finish",
+    "def2": "the end or completion of an event or activity"
+  },
+  {
+    "difficulty": 532,
+    "word1": "begin",
+    "def1": "to start to happen or exist",
+    "word2": "commence",
+    "def2": "begin; start"
+  },
+  {
+    "difficulty": 533,
+    "word1": "endorse",
+    "def1": "declare one's public approval or support of",
+    "word2": "approve",
+    "def2": "officially agree to or accept as satisfactory"
+  },
+  {
+    "difficulty": 534,
+    "word1": "condemn",
+    "def1": "express complete disapproval of; censure",
+    "word2": "denounce",
+    "def2": "publicly declare to be wrong or evil"
+  },
+  {
+    "difficulty": 535,
+    "word1": "endure",
+    "def1": "suffer patiently",
+    "word2": "tolerate",
+    "def2": "allow the existence, occurrence, or practice of without interference"
+  },
+  {
+    "difficulty": 536,
+    "word1": "resist",
+    "def1": "withstand the action or effect of",
+    "word2": "oppose",
+    "def2": "disagree with and attempt to prevent, especially by argument"
+  },
+  {
+    "difficulty": 537,
+    "word1": "energetic",
+    "def1": "showing or involving great activity or vitality",
+    "word2": "vigorous",
+    "def2": "strong, healthy, and full of energy"
+  },
+  {
+    "difficulty": 538,
+    "word1": "lethargic",
+    "def1": "affected by lethargy; sluggish and apathetic",
+    "word2": "sluggish",
+    "def2": "slow-moving or inactive"
+  },
+  {
+    "difficulty": 539,
+    "word1": "enhance",
+    "def1": "intensify, increase, or further improve the quality, value, or extent of",
+    "word2": "augment",
+    "def2": "make something greater by adding to it; increase"
+  },
+  {
+    "difficulty": 540,
+    "word1": "diminish",
+    "def1": "make or become less",
+    "word2": "reduce",
+    "def2": "make smaller or less in amount, degree, or size"
+  },
+  {
+    "difficulty": 541,
+    "word1": "enjoy",
+    "def1": "take delight or pleasure in",
+    "word2": "relish",
+    "def2": "great enjoyment"
+  },
+  {
+    "difficulty": 542,
+    "word1": "suffer",
+    "def1": "experience or be subjected to something bad or unpleasant",
+    "word2": "endure",
+    "def2": "suffer patiently"
+  },
+  {
+    "difficulty": 543,
+    "word1": "enormous",
+    "def1": "very large in size, quantity, or extent",
+    "word2": "immense",
+    "def2": "extremely large or great"
+  },
+  {
+    "difficulty": 544,
+    "word1": "tiny",
+    "def1": "very small",
+    "word2": "minuscule",
+    "def2": "extremely small; tiny"
+  },
+  {
+    "difficulty": 545,
+    "word1": "enrage",
+    "def1": "make very angry",
+    "word2": "infuriate",
+    "def2": "make extremely angry and impatient"
+  },
+  {
+    "difficulty": 546,
+    "word1": "pacify",
+    "def1": "quell the anger, agitation, or excitement of",
+    "word2": "placate",
+    "def2": "make someone less angry or hostile"
+  },
+  {
+    "difficulty": 547,
+    "word1": "enrich",
+    "def1": "improve or enhance the quality or value of",
+    "word2": "enhance",
+    "def2": "intensify, increase, or further improve the quality, value, or extent of"
+  },
+  {
+    "difficulty": 548,
+    "word1": "impoverish",
+    "def1": "make poor",
+    "word2": "deplete",
+    "def2": "diminish in number or quantity"
+  },
+  {
+    "difficulty": 549,
+    "word1": "ensure",
+    "def1": "make certain that something shall occur or be the case",
+    "word2": "guarantee",
+    "def2": "provide a formal assurance or promise concerning the future"
+  },
+  {
+    "difficulty": 550,
+    "word1": "jeopardize",
+    "def1": "put at risk; endanger",
+    "word2": "endanger",
+    "def2": "put at risk of harm or danger"
+  },
+  {
+    "difficulty": 551,
+    "word1": "enter",
+    "def1": "come or go into a place",
+    "word2": "access",
+    "def2": "the means or opportunity to approach or enter a place"
+  },
+  {
+    "difficulty": 552,
+    "word1": "exit",
+    "def1": "a way out",
+    "word2": "depart",
+    "def2": "leave, typically to start a journey"
+  },
+  {
+    "difficulty": 553,
+    "word1": "enthusiasm",
+    "def1": "intense and eager enjoyment, interest, or approval",
+    "word2": "passion",
+    "def2": "strong and barely controllable emotion"
+  },
+  {
+    "difficulty": 554,
+    "word1": "apathy",
+    "def1": "lack of interest, enthusiasm, or concern",
+    "word2": "indifference",
+    "def2": "lack of interest, concern, or sympathy"
+  },
+  {
+    "difficulty": 555,
+    "word1": "envy",
+    "def1": "a feeling of discontented or resentful longing aroused by someone else's possessions",
+    "word2": "jealousy",
+    "def2": "feeling or showing envy of someone or their achievements and advantages"
+  },
+  {
+    "difficulty": 556,
+    "word1": "contentment",
+    "def1": "a state of happiness and satisfaction",
+    "word2": "satisfaction",
+    "def2": "fulfillment of one's wishes, expectations, or needs"
+  },
+  {
+    "difficulty": 557,
+    "word1": "equal",
+    "def1": "being the same in quantity, size, degree, or value",
+    "word2": "equivalent",
+    "def2": "equal in value, amount, function, or meaning"
+  },
+  {
+    "difficulty": 558,
+    "word1": "different",
+    "def1": "not the same as another or each other",
+    "word2": "dissimilar",
+    "def2": "not alike; different"
+  },
+  {
+    "difficulty": 559,
+    "word1": "equip",
+    "def1": "supply with the necessary items for a particular purpose",
+    "word2": "outfit",
+    "def2": "provide with equipment or clothes for a specific purpose"
+  },
+  {
+    "difficulty": 560,
+    "word1": "deprive",
+    "def1": "deny a person or place the possession or use of something",
+    "word2": "strip",
+    "def2": "remove all coverings from"
+  },
+  {
+    "difficulty": 561,
+    "word1": "essential",
+    "def1": "absolutely necessary; extremely important",
+    "word2": "vital",
+    "def2": "absolutely necessary or important; essential"
+  },
+  {
+    "difficulty": 562,
+    "word1": "optional",
+    "def1": "available to be chosen but not obligatory",
+    "word2": "voluntary",
+    "def2": "done, given, or acting of one's own free will"
+  },
+  {
+    "difficulty": 563,
+    "word1": "establish",
+    "def1": "set up on a firm or permanent basis",
+    "word2": "found",
+    "def2": "establish or originate (an institution or organization)"
+  },
+  {
+    "difficulty": 564,
+    "word1": "abolish",
+    "def1": "formally put an end to",
+    "word2": "eliminate",
+    "def2": "completely remove or get rid of something"
+  },
+  {
+    "difficulty": 565,
+    "word1": "esteem",
+    "def1": "respect and admiration, typically for a person",
+    "word2": "regard",
+    "def2": "consider or think of in a specified way"
+  },
+  {
+    "difficulty": 566,
+    "word1": "disdain",
+    "def1": "the feeling that someone or something is unworthy of one's consideration or respect",
+    "word2": "contempt",
+    "def2": "the feeling that a person or a thing is beneath consideration or worthless"
+  },
+  {
+    "difficulty": 567,
+    "word1": "eternal",
+    "def1": "lasting or existing forever; without end",
+    "word2": "everlasting",
+    "def2": "lasting forever or a very long time"
+  },
+  {
+    "difficulty": 568,
+    "word1": "temporary",
+    "def1": "lasting for only a limited period of time; not permanent",
+    "word2": "transient",
+    "def2": "lasting only for a short time; impermanent"
+  },
+  {
+    "difficulty": 569,
+    "word1": "evaluate",
+    "def1": "form an idea of the amount, number, or value of; assess",
+    "word2": "appraise",
+    "def2": "assess the value or quality of"
+  },
+  {
+    "difficulty": 570,
+    "word1": "dismiss",
+    "def1": "order or allow to leave; send away",
+    "word2": "disregard",
+    "def2": "pay no attention to; ignore"
+  },
+  {
+    "difficulty": 571,
+    "word1": "evanescent",
+    "def1": "soon passing out of sight, memory, or existence; quickly fading or disappearing",
+    "word2": "ephemeral",
+    "def2": "lasting for a very short time"
+  },
+  {
+    "difficulty": 572,
+    "word1": "permanent",
+    "def1": "lasting or intended to last or remain unchanged indefinitely",
+    "word2": "enduring",
+    "def2": "lasting over a period of time; durable"
+  },
+  {
+    "difficulty": 573,
+    "word1": "evade",
+    "def1": "escape or avoid, especially by cleverness or deceit",
+    "word2": "elude",
+    "def2": "escape from or avoid by cleverness or cunning"
+  },
+  {
+    "difficulty": 574,
+    "word1": "confront",
+    "def1": "face up to and deal with a problem or difficult situation",
+    "word2": "encounter",
+    "def2": "unexpectedly face or experience something hostile or difficult"
+  },
+  {
+    "difficulty": 575,
+    "word1": "evident",
+    "def1": "clearly seen or understood; obvious",
+    "word2": "apparent",
+    "def2": "clearly visible or understood; obvious"
+  },
+  {
+    "difficulty": 576,
+    "word1": "obscure",
+    "def1": "not discovered or known about; uncertain",
+    "word2": "unclear",
+    "def2": "not easy to perceive, understand, or interpret"
+  },
+  {
+    "difficulty": 577,
+    "word1": "evolve",
+    "def1": "develop gradually, especially from a simple to a more complex form",
+    "word2": "develop",
+    "def2": "grow or cause to grow and become more mature, advanced, or elaborate"
+  },
+  {
+    "difficulty": 578,
+    "word1": "stagnate",
+    "def1": "cease to flow or move; become stale or foul from standing",
+    "word2": "deteriorate",
+    "def2": "become progressively worse"
+  },
+  {
+    "difficulty": 579,
+    "word1": "exaggerate",
+    "def1": "represent something as being larger, better, or worse than it really is",
+    "word2": "overstate",
+    "def2": "state too strongly; exaggerate"
+  },
+  {
+    "difficulty": 580,
+    "word1": "understate",
+    "def1": "describe or represent as less significant than it really is",
+    "word2": "minimize",
+    "def2": "represent or estimate at less than the true value or importance"
+  },
+  {
+    "difficulty": 581,
+    "word1": "abeyance",
+    "def1": "a state of temporary disuse or suspension",
+    "word2": "dormancy",
+    "def2": "a state of being inactive or dormant"
+  },
+  {
+    "difficulty": 582,
+    "word1": "abscond",
+    "def1": "leave hurriedly and secretly, typically to escape from custody or avoid prosecution",
+    "word2": "flee",
+    "def2": "run away from a place or situation of danger"
+  },
+  {
+    "difficulty": 583,
+    "word1": "acerbic",
+    "def1": "sharp and forthright in expression",
+    "word2": "caustic",
+    "def2": "sarcastic in a scathing and bitter way"
+  },
+  {
+    "difficulty": 584,
+    "word1": "acquiesce",
+    "def1": "accept something reluctantly but without protest",
+    "word2": "comply",
+    "def2": "act in accordance with a wish or command"
+  },
+  {
+    "difficulty": 585,
+    "word1": "acumen",
+    "def1": "the ability to make good judgments and quick decisions",
+    "word2": "shrewdness",
+    "def2": "the quality of being sharp-witted and astute"
+  },
+  {
+    "difficulty": 586,
+    "word1": "adamant",
+    "def1": "refusing to be persuaded or to change one's mind",
+    "word2": "unyielding",
+    "def2": "unlikely to be swayed; resolute"
+  },
+  {
+    "difficulty": 587,
+    "word1": "admonish",
+    "def1": "warn or reprimand someone firmly",
+    "word2": "reprove",
+    "def2": "rebuke or scold someone"
+  },
+  {
+    "difficulty": 588,
+    "word1": "adroit",
+    "def1": "clever or skillful",
+    "word2": "dexterous",
+    "def2": "showing or having skill, especially with the hands"
+  },
+  {
+    "difficulty": 589,
+    "word1": "adulation",
+    "def1": "excessive admiration or praise",
+    "word2": "flattery",
+    "def2": "excessive and insincere praise, given especially to further one's own interests"
+  },
+  {
+    "difficulty": 590,
+    "word1": "adversity",
+    "def1": "difficulties; misfortune",
+    "word2": "hardship",
+    "def2": "severe suffering or privation"
+  },
+  {
+    "difficulty": 591,
+    "word1": "perspicacious",
+    "def1": "having keen mental perception and understanding; discerning",
+    "word2": "sagacious",
+    "def2": "having or showing keen discernment and good judgment"
+  },
+  {
+    "difficulty": 592,
+    "word1": "recalcitrant",
+    "def1": "having an obstinately uncooperative attitude toward authority",
+    "word2": "intransigent",
+    "def2": "unwilling or refusing to change one's views or to agree about something"
+  },
+  {
+    "difficulty": 593,
+    "word1": "pulchritudinous",
+    "def1": "physically beautiful; comely",
+    "word2": "exquisite",
+    "def2": "extremely beautiful and delicate"
+  },
+  {
+    "difficulty": 594,
+    "word1": "obfuscate",
+    "def1": "render obscure, unclear, or unintelligible",
+    "word2": "becloud",
+    "def2": "make unclear, confused, or muddled"
+  },
+  {
+    "difficulty": 595,
+    "word1": "neophyte",
+    "def1": "a person who is new to a subject, skill, or belief",
+    "word2": "tyro",
+    "def2": "a beginner or novice"
+  },
+  {
+    "difficulty": 596,
+    "word1": "mellifluous",
+    "def1": "sweet or musical; pleasant to hear",
+    "word2": "euphonious",
+    "def2": "pleasing or sweet in sound; pleasant-sounding"
+  },
+  {
+    "difficulty": 597,
+    "word1": "ineffable",
+    "def1": "too great or extreme to be expressed or described in words",
+    "word2": "indescribable",
+    "def2": "too unusual, extreme, or indefinite to be adequately described"
+  },
+  {
+    "difficulty": 598,
+    "word1": "insouciant",
+    "def1": "showing a casual lack of concern; indifferent",
+    "word2": "nonchalant",
+    "def2": "appearing casually calm and relaxed; not displaying anxiety, interest, or enthusiasm"
+  },
+  {
+    "difficulty": 599,
+    "word1": "inchoate",
+    "def1": "just begun and so not fully formed or developed; rudimentary",
+    "word2": "nascent",
+    "def2": "just coming into existence and beginning to display signs of future potential"
+  },
+  {
+    "difficulty": 600,
+    "word1": "ignominious",
+    "def1": "deserving or causing public disgrace or shame",
+    "word2": "dishonorable",
+    "def2": "bringing shame or disgrace; shameful"
+  },
+  {
+    "difficulty": 610,
+    "word1": "ephemeral",
+    "def1": "lasting for a very short time",
+    "word2": "transient",
+    "def2": "lasting only for a brief period; impermanent"
+  },
+  {
+    "difficulty": 620,
+    "word1": "capricious",
+    "def1": "given to sudden and unaccountable changes of mood or behavior",
+    "word2": "mercurial",
+    "def2": "subject to sudden or unpredictable changes of mood or mind"
+  },
+  {
+    "difficulty": 630,
+    "word1": "obsequious",
+    "def1": "obedient or attentive to an excessive or servile degree",
+    "word2": "servile",
+    "def2": "having or showing an excessive willingness to serve or please others"
+  },
+  {
+    "difficulty": 640,
+    "word1": "abstruse",
+    "def1": "difficult to understand; obscure",
+    "word2": "recondite",
+    "def2": "little known; abstruse; dealing with profound matters"
+  },
+  {
+    "difficulty": 650,
+    "word1": "laconic",
+    "def1": "using very few words; concise to the point of seeming rude or mysterious",
+    "word2": "terse",
+    "def2": "sparing in the use of words; abrupt and to the point"
+  },
+  {
+    "difficulty": 660,
+    "word1": "sycophant",
+    "def1": "a person who acts obsequiously toward someone important in order to gain advantage",
+    "word2": "toady",
+    "def2": "a person who flatters or defers to others for self-serving reasons"
+  },
+  {
+    "difficulty": 670,
+    "word1": "sagacious",
+    "def1": "having or showing keen mental discernment and good judgment",
+    "word2": "astute",
+    "def2": "having or showing an ability to accurately assess situations or people"
+  },
+  {
+    "difficulty": 680,
+    "word1": "truculent",
+    "def1": "eager or quick to argue or fight; aggressively defiant",
+    "word2": "belligerent",
+    "def2": "hostile and aggressive; demonstrating a willingness to fight"
+  },
+  {
+    "difficulty": 690,
+    "word1": "propitiate",
+    "def1": "to win or regain the favor of by doing something that pleases",
+    "word2": "appease",
+    "def2": "to pacify or soothe; especially by acceding to demands"
+  },
+  {
+    "difficulty": 700,
+    "word1": "bellicose",
+    "def1": "demonstrating aggression and willingness to fight",
+    "word2": "pugnacious",
+    "def2": "eager or quick to argue, quarrel, or fight"
+  },
+  {
+    "difficulty": 710,
+    "word1": "ineffable",
+    "def1": "too great or extreme to be expressed or described in words",
+    "word2": "indescribable",
+    "def2": "unable to be described or expressed in language"
+  },
+  {
+    "difficulty": 720,
+    "word1": "mellifluous",
+    "def1": "sweet or musical; pleasant to hear",
+    "word2": "euphonious",
+    "def2": "having or characterized by a pleasing or sweet sound"
+  },
+  {
+    "difficulty": 730,
+    "word1": "fastidious",
+    "def1": "very attentive to and concerned about accuracy and detail",
+    "word2": "meticulous",
+    "def2": "showing great attention to detail; very careful and precise"
+  },
+  {
+    "difficulty": 740,
+    "word1": "perfunctory",
+    "def1": "carried out with minimal effort or reflection",
+    "word2": "cursory",
+    "def2": "hasty and therefore not thorough or detailed"
+  },
+  {
+    "difficulty": 750,
+    "word1": "garrulous",
+    "def1": "excessively talkative, especially on trivial matters",
+    "word2": "loquacious",
+    "def2": "tending to talk a great deal; chatty"
+  },
+  {
+    "difficulty": 760,
+    "word1": "insidious",
+    "def1": "proceeding in a gradual, subtle way, but with harmful effects",
+    "word2": "pernicious",
+    "def2": "having a harmful effect, especially in a gradual or subtle way"
+  },
+  {
+    "difficulty": 770,
+    "word1": "vituperate",
+    "def1": "to criticize or blame in harsh or abusive language",
+    "word2": "revile",
+    "def2": "to criticize in an abusive or hostile way"
+  },
+  {
+    "difficulty": 780,
+    "word1": "phlegmatic",
+    "def1": "having an unemotional and calm disposition",
+    "word2": "stoic",
+    "def2": "not showing emotion or complaining when faced with problems"
+  },
+  {
+    "difficulty": 790,
+    "word1": "equivocate",
+    "def1": "use ambiguous language so as to conceal the truth or avoid committing oneself",
+    "word2": "prevaricate",
+    "def2": "speak or act in an evasive way to avoid telling the truth"
+  },
+  {
+    "difficulty": 800,
+    "word1": "elucidate",
+    "def1": "make clear; explain",
+    "word2": "explicate",
+    "def2": "analyze and develop in detail to make more clear"
+  },
+  {
+    "difficulty": 705,
+    "word1": "duplicitous",
+    "def1": "deceitful or dishonest in speech or conduct",
+    "word2": "mendacious",
+    "def2": "not telling the truth; lying"
+  },
+  {
+    "difficulty": 708,
+    "word1": "querulous",
+    "def1": "complaining in a petulant or whining manner",
+    "word2": "petulant",
+    "def2": "childishly sulky or bad-tempered"
+  },
+  {
+    "difficulty": 712,
+    "word1": "ribald",
+    "def1": "referring to sexual matters in a comically rude or irreverent way",
+    "word2": "bawdy",
+    "def2": "dealing with sexual matters in a comical way; humorously indecent"
+  },
+  {
+    "difficulty": 716,
+    "word1": "unctuous",
+    "def1": "excessively or ingratiatingly flattering",
+    "word2": "oleaginous",
+    "def2": "exaggeratedly and distastefully complimentary; obsequious"
+  },
+  {
+    "difficulty": 722,
+    "word1": "tendentious",
+    "def1": "expressing a particular bias or viewpoint, especially a controversial one",
+    "word2": "partisan",
+    "def2": "prejudiced in favor of a particular cause; biased"
+  },
+  {
+    "difficulty": 726,
+    "word1": "redoubtable",
+    "def1": "formidable, especially as an opponent",
+    "word2": "formidable",
+    "def2": "inspiring fear or respect through being impressively large, powerful, or capable"
+  },
+  {
+    "difficulty": 733,
+    "word1": "seditious",
+    "def1": "inciting or causing people to rebel against the authority of a state",
+    "word2": "subversive",
+    "def2": "seeking or intended to subvert an established system or institution"
+  },
+  {
+    "difficulty": 738,
+    "word1": "inveterate",
+    "def1": "having a particular habit, activity, or interest that is long-established",
+    "word2": "habitual",
+    "def2": "done or experienced regularly or repeatedly"
+  },
+  {
+    "difficulty": 744,
+    "word1": "celerity",
+    "def1": "swiftness of movement",
+    "word2": "alacrity",
+    "def2": "brisk and cheerful readiness"
+  },
+  {
+    "difficulty": 748,
+    "word1": "salient",
+    "def1": "most noticeable or important",
+    "word2": "conspicuous",
+    "def2": "clearly visible; attracting notice or attention"
+  },
+  {
+    "difficulty": 754,
+    "word1": "supercilious",
+    "def1": "behaving or looking as though one thinks one is superior to others",
+    "word2": "haughty",
+    "def2": "arrogantly superior and disdainful"
+  },
+  {
+    "difficulty": 758,
+    "word1": "paucity",
+    "def1": "the presence of something in only small or insufficient quantities",
+    "word2": "dearth",
+    "def2": "a scarcity or lack of something"
+  },
+  {
+    "difficulty": 764,
+    "word1": "tenebrous",
+    "def1": "dark, shadowy, or obscure",
+    "word2": "murky",
+    "def2": "dark and gloomy, especially due to thick mist"
+  },
+  {
+    "difficulty": 768,
+    "word1": "vociferous",
+    "def1": "expressing or characterized by vehement opinions; loud and forceful",
+    "word2": "clamorous",
+    "def2": "making a loud and confused noise"
+  },
+  {
+    "difficulty": 774,
+    "word1": "quixotic",
+    "def1": "exceedingly idealistic; unrealistic and impractical",
+    "word2": "idealistic",
+    "def2": "characterized by ideals that often exceed practicality"
+  },
+  {
+    "difficulty": 778,
+    "word1": "impecunious",
+    "def1": "having little or no money",
+    "word2": "indigent",
+    "def2": "poor; needy"
+  },
+  {
+    "difficulty": 784,
+    "word1": "expeditious",
+    "def1": "done with speed and efficiency",
+    "word2": "prompt",
+    "def2": "done without delay; immediate"
+  },
+  {
+    "difficulty": 788,
+    "word1": "trenchant",
+    "def1": "vigorous or incisive in expression or style",
+    "word2": "incisive",
+    "def2": "intellectually sharp and clear; acute"
+  },
+  {
+    "difficulty": 794,
+    "word1": "prurient",
+    "def1": "having or encouraging an excessive interest in sexual matters",
+    "word2": "salacious",
+    "def2": "having or conveying undue or inappropriate interest in sexual matters"
+  },
+  {
+    "difficulty": 798,
+    "word1": "diffident",
+    "def1": "modest or shy because of a lack of self-confidence",
+    "word2": "timorous",
+    "def2": "showing or suffering from nervousness, fear, or a lack of confidence"
+  },
+  {
+    "difficulty": 804,
+    "word1": "lubricious",
+    "def1": "having or showing excessive or offensive sexual desire",
+    "word2": "lecherous",
+    "def2": "having or showing excessive sexual desire"
+  },
+  {
+    "difficulty": 808,
+    "word1": "dilatory",
+    "def1": "slow to act; intended to cause delay",
+    "word2": "laggardly",
+    "def2": "falling behind; slow and sluggish"
+  },
+  {
+    "difficulty": 814,
+    "word1": "noisome",
+    "def1": "having an extremely offensive smell",
+    "word2": "malodorous",
+    "def2": "smelling very unpleasant"
+  },
+  {
+    "difficulty": 818,
+    "word1": "nugatory",
+    "def1": "of little or no value or importance",
+    "word2": "trifling",
+    "def2": "unimportant or trivial"
+  },
+  {
+    "difficulty": 824,
+    "word1": "solipsistic",
+    "def1": "characterized by the view that the self is all that can be known to exist",
+    "word2": "egocentric",
+    "def2": "thinking only of oneself, without regard for the feelings of others"
+  },
+  {
+    "difficulty": 828,
+    "word1": "risible",
+    "def1": "provoking laughter through being absurd",
+    "word2": "ludicrous",
+    "def2": "so foolish, unreasonable, or out of place as to be amusing"
+  },
+  {
+    "difficulty": 834,
+    "word1": "cacophonous",
+    "def1": "involving harsh, discordant sounds",
+    "word2": "dissonant",
+    "def2": "lacking harmony; discordant"
+  },
+  {
+    "difficulty": 838,
+    "word1": "adumbrate",
+    "def1": "to outline; to foreshadow or symbolize",
+    "word2": "prefigure",
+    "def2": "to suggest or represent beforehand; foreshadow"
+  },
+  {
+    "difficulty": 844,
+    "word1": "fatuous",
+    "def1": "silly and pointless",
+    "word2": "vapid",
+    "def2": "offering nothing that is stimulating or challenging; bland"
+  },
+  {
+    "difficulty": 848,
+    "word1": "peccant",
+    "def1": "guilty of a sin or offense",
+    "word2": "culpable",
+    "def2": "deserving blame"
+  },
+  {
+    "difficulty": 854,
+    "word1": "effulgent",
+    "def1": "shining brightly; radiant",
+    "word2": "radiant",
+    "def2": "sending out light; shining or glowing brightly"
+  },
+  {
+    "difficulty": 858,
+    "word1": "acerbic",
+    "def1": "sharp and forthright in expression",
+    "word2": "mordant",
+    "def2": "having or showing a sharp or critical quality; biting"
+  },
+  {
+    "difficulty": 864,
+    "word1": "acumen",
+    "def1": "the ability to make good judgments and quick decisions",
+    "word2": "perspicacity",
+    "def2": "the quality of having a ready insight into things; shrewdness"
+  },
+  {
+    "difficulty": 868,
+    "word1": "defenestrate",
+    "def1": "throw out of a window",
+    "word2": "eject",
+    "def2": "force or drive out; expel"
+  },
+  {
+    "difficulty": 874,
+    "word1": "effete",
+    "def1": "lacking in vigor, force, or effectiveness",
+    "word2": "enervated",
+    "def2": "drained of energy or vitality"
+  },
+  {
+    "difficulty": 878,
+    "word1": "complaisant",
+    "def1": "willing to please others; obliging",
+    "word2": "acquiescent",
+    "def2": "accepting something reluctantly but without protest"
+  },
+  {
+    "difficulty": 884,
+    "word1": "supine",
+    "def1": "lying face upward",
+    "word2": "prostrate",
+    "def2": "lying flat, especially face downward"
+  },
+  {
+    "difficulty": 888,
+    "word1": "coruscate",
+    "def1": "to emit flashes of light; sparkle",
+    "word2": "scintillate",
+    "def2": "to emit flashes of light; sparkle"
+  },
+  {
+    "difficulty": 894,
+    "word1": "opprobrium",
+    "def1": "harsh criticism or censure",
+    "word2": "obloquy",
+    "def2": "strong public criticism or verbal abuse"
+  },
+  {
+    "difficulty": 898,
+    "word1": "percipient",
+    "def1": "having or showing sensitive insight",
+    "word2": "discerning",
+    "def2": "showing good judgment and understanding"
+  },
+  {
+    "difficulty": 902,
+    "word1": "prolix",
+    "def1": "tediously lengthy or wordy",
+    "word2": "verbose",
+    "def2": "using or containing more words than necessary"
+  },
+  {
+    "difficulty": 904,
+    "word1": "redolent",
+    "def1": "having a pleasant smell; fragrant",
+    "word2": "aromatic",
+    "def2": "having a pleasant and distinctive smell"
+  },
+  {
+    "difficulty": 908,
+    "word1": "refulgent",
+    "def1": "shining brightly",
+    "word2": "resplendent",
+    "def2": "attractive and impressive through being richly colorful or sumptuous"
+  },
+  {
+    "difficulty": 914,
+    "word1": "temerity",
+    "def1": "excessive confidence or boldness; audacity",
+    "word2": "audacity",
+    "def2": "a willingness to take bold risks; boldness"
+  },
+  {
+    "difficulty": 918,
+    "word1": "verisimilitude",
+    "def1": "the appearance of being true or real",
+    "word2": "plausibility",
+    "def2": "the quality of seeming reasonable or probable"
+  },
+  {
+    "difficulty": 924,
+    "word1": "comity",
+    "def1": "courtesy and considerate behavior toward others",
+    "word2": "amity",
+    "def2": "a friendly relationship"
+  },
+  {
+    "difficulty": 928,
+    "word1": "exiguous",
+    "def1": "very small in size or amount",
+    "word2": "meager",
+    "def2": "lacking in quantity or quality"
+  },
+  {
+    "difficulty": 934,
+    "word1": "jejune",
+    "def1": "naive, simplistic, and superficial",
+    "word2": "insipid",
+    "def2": "lacking flavor or zest; not tasty"
+  },
+  {
+    "difficulty": 938,
+    "word1": "philippic",
+    "def1": "a bitter verbal attack or denunciation",
+    "word2": "diatribe",
+    "def2": "a forceful and bitter verbal attack"
+  },
+  {
+    "difficulty": 944,
+    "word1": "syllepsis",
+    "def1": "a figure of speech in which a word is applied to two others in different senses",
+    "word2": "zeugma",
+    "def2": "a figure of speech in which a word applies to two others in different ways"
+  },
+  {
+    "difficulty": 948,
+    "word1": "salutary",
+    "def1": "producing a beneficial effect",
+    "word2": "salubrious",
+    "def2": "health-giving; healthy"
+  },
+  {
+    "difficulty": 954,
+    "word1": "sempiternal",
+    "def1": "eternal and unchanging; everlasting",
+    "word2": "perpetual",
+    "def2": "never ending or changing; continuing forever"
+  },
+  {
+    "difficulty": 958,
+    "word1": "vermicular",
+    "def1": "of, relating to, or resembling a worm",
+    "word2": "sinuous",
+    "def2": "having many curves and turns; winding"
+  },
+  {
+    "difficulty": 964,
+    "word1": "otiose",
+    "def1": "serving no practical purpose or result",
+    "word2": "futile",
+    "def2": "incapable of producing any useful result; pointless"
+  },
+  {
+    "difficulty": 968,
+    "word1": "irrefragable",
+    "def1": "impossible to refute; incontrovertible",
+    "word2": "incontrovertible",
+    "def2": "not able to be denied or disputed"
+  },
+  {
+    "difficulty": 974,
+    "word1": "crepuscular",
+    "def1": "relating to or resembling twilight; dim",
+    "word2": "dim",
+    "def2": "not bright or clear; obscure"
+  },
+  {
+    "difficulty": 978,
+    "word1": "cosset",
+    "def1": "to treat with excessive care and attention",
+    "word2": "pamper",
+    "def2": "to indulge with every comfort, luxury, and kindness"
+  },
+  {
+    "difficulty": 984,
+    "word1": "nescient",
+    "def1": "lacking knowledge; ignorant",
+    "word2": "ignorant",
+    "def2": "lacking knowledge, information, or awareness"
+  },
+  {
+    "difficulty": 988,
+    "word1": "desiccate",
+    "def1": "remove the moisture from; cause to dry up",
+    "word2": "dehydrate",
+    "def2": "to cause to lose water or moisture; make dry"
+  },
+  {
+    "difficulty": 994,
+    "word1": "contretemps",
+    "def1": "an unfortunate or embarrassing occurrence or situation",
+    "word2": "mishap",
+    "def2": "an unlucky accident"
+  },
+  {
+    "difficulty": 998,
+    "word1": "epigone",
+    "def1": "a less distinguished follower or imitator of someone",
+    "word2": "emulator",
+    "def2": "one who tries to equal or excel another; an imitator"
+  },
+  {
+    "difficulty": 1004,
+    "word1": "caliginous",
+    "def1": "dark, dim, obscure, or misty",
+    "word2": "obscure",
+    "def2": "not discovered or known; unclear or difficult to understand"
+  },
+  {
+    "difficulty": 1008,
+    "word1": "heterodox",
+    "def1": "not conforming with accepted or orthodox standards or beliefs",
+    "word2": "unorthodox",
+    "def2": "contrary to what is usual, traditional, or accepted"
+  },
+  {
+    "difficulty": 1014,
+    "word1": "susurrous",
+    "def1": "whispering or rustling",
+    "word2": "sibilant",
+    "def2": "making or characterized by a hissing sound"
+  },
+  {
+    "difficulty": 1018,
+    "word1": "cachinnate",
+    "def1": "laugh loudly or immoderately",
+    "word2": "guffaw",
+    "def2": "a loud, unrestrained burst of laughter"
+  },
+  {
+    "difficulty": 1024,
+    "word1": "abnegate",
+    "def1": "renounce or reject",
+    "word2": "renounce",
+    "def2": "formally reject or disavow a claim"
+  },
+  {
+    "difficulty": 1028,
+    "word1": "rodomontade",
+    "def1": "boastful or inflated talk or behavior",
+    "word2": "braggadocio",
+    "def2": "empty boasting or arrogant pretension"
+  },
+  {
+    "difficulty": 1034,
+    "word1": "callipygian",
+    "def1": "having shapely buttocks",
+    "word2": "pulchritudinous",
+    "def2": "physically beautiful; comely"
+  },
+  {
+    "difficulty": 1038,
+    "word1": "velleity",
+    "def1": "a wish or inclination not strong enough to lead to action",
+    "word2": "whim",
+    "def2": "a sudden desire or change of mind"
+  },
+  {
+    "difficulty": 1044,
+    "word1": "frangible",
+    "def1": "fragile; brittle; easily broken",
+    "word2": "fragile",
+    "def2": "easily broken, damaged, or destroyed"
+  },
+  {
+    "difficulty": 1048,
+    "word1": "eleemosynary",
+    "def1": "relating to or dependent on charity; charitable",
+    "word2": "philanthropic",
+    "def2": "seeking to promote the welfare of others; charitable"
+  },
+  {
+    "difficulty": 1054,
+    "word1": "voluptuary",
+    "def1": "a person devoted to luxury and sensual pleasure",
+    "word2": "hedonist",
+    "def2": "a person who believes that the pursuit of pleasure is the most important thing"
+  },
+  {
+    "difficulty": 1058,
+    "word1": "emollient",
+    "def1": "having the quality of softening or soothing the skin",
+    "word2": "soothing",
+    "def2": "having a gently calming effect"
+  },
+  {
+    "difficulty": 1064,
+    "word1": "adumbration",
+    "def1": "a faint sketch; an outline; a prefiguring",
+    "word2": "prefigurement",
+    "def2": "a representation of something that will come later"
+  },
+  {
+    "difficulty": 1068,
+    "word1": "cathexis",
+    "def1": "the concentration of mental energy on one particular person, idea, or object",
+    "word2": "fixation",
+    "def2": "an obsessive interest in or feeling about someone or something"
+  },
+  {
+    "difficulty": 1074,
+    "word1": "borborygmus",
+    "def1": "a rumbling or gurgling noise in the intestines",
+    "word2": "rumbling",
+    "def2": "a continuous deep, resonant sound"
+  },
+  {
+    "difficulty": 1078,
+    "word1": "démarche",
+    "def1": "a political step or initiative",
+    "word2": "maneuver",
+    "def2": "a planned series of moves for gaining an advantage"
+  },
+  {
+    "difficulty": 1084,
+    "word1": "logorrhea",
+    "def1": "excessive and often incoherent talkativeness",
+    "word2": "verbosity",
+    "def2": "the quality of using more words than needed"
+  },
+  {
+    "difficulty": 1088,
+    "word1": "oneiric",
+    "def1": "relating to dreams or dreaming",
+    "word2": "dreamlike",
+    "def2": "resembling or characteristic of a dream"
+  },
+  {
+    "difficulty": 1094,
+    "word1": "pyknic",
+    "def1": "having a rounded build with a tendency to become plump",
+    "word2": "stocky",
+    "def2": "broad and sturdy in build"
+  },
+  {
+    "difficulty": 1098,
+    "word1": "tropology",
+    "def1": "the use of figurative language; metaphorical interpretation",
+    "word2": "allegory",
+    "def2": "a story, poem, or picture that can be interpreted to reveal a hidden meaning"
+  },
+  {
+    "difficulty": 810,
+    "word1": "soporific",
+    "def1": "causing or tending to cause sleep",
+    "word2": "narcotic",
+    "def2": "a substance that induces drowsiness, sleep, or numbness"
+  },
+  {
+    "difficulty": 820,
+    "word1": "assiduous",
+    "def1": "showing great care, attention, and persistent effort",
+    "word2": "sedulous",
+    "def2": "diligent in application or attention; persevering"
+  },
+  {
+    "difficulty": 830,
+    "word1": "pusillanimous",
+    "def1": "showing a lack of courage or determination; timid",
+    "word2": "craven",
+    "def2": "contemptibly lacking in courage; cowardly"
+  },
+  {
+    "difficulty": 840,
+    "word1": "recalcitrant",
+    "def1": "having an obstinately uncooperative attitude toward authority",
+    "word2": "intransigent",
+    "def2": "unwilling or refusing to change one's views or to agree about something"
+  },
+  {
+    "difficulty": 850,
+    "word1": "ebullient",
+    "def1": "cheerful and full of energy",
+    "word2": "effervescent",
+    "def2": "vivacious and enthusiastic; bubbling with excitement"
+  },
+  {
+    "difficulty": 860,
+    "word1": "vacillate",
+    "def1": "waver between different opinions or actions; be indecisive",
+    "word2": "equivocate",
+    "def2": "use ambiguous language to conceal the truth or avoid commitment"
+  },
+  {
+    "difficulty": 870,
+    "word1": "vitriolic",
+    "def1": "filled with bitter criticism or malice",
+    "word2": "caustic",
+    "def2": "marked by harsh, biting judgment or criticism"
+  },
+  {
+    "difficulty": 880,
+    "word1": "obstreperous",
+    "def1": "noisy and difficult to control",
+    "word2": "fractious",
+    "def2": "irritable and quarrelsome; difficult to control"
+  },
+  {
+    "difficulty": 890,
+    "word1": "grandiloquent",
+    "def1": "pompous or extravagant in language, style, or manner",
+    "word2": "bombastic",
+    "def2": "high-sounding but with little meaning; inflated"
+  },
+  {
+    "difficulty": 900,
+    "word1": "circumlocution",
+    "def1": "the use of many words where fewer would do, especially to avoid being direct",
+    "word2": "periphrasis",
+    "def2": "a roundabout way of expressing something"
+  },
+  {
+    "difficulty": 910,
+    "word1": "castigate",
+    "def1": "to criticize or reprimand severely",
+    "word2": "excoriate",
+    "def2": "to censure or denounce strongly; to criticize harshly"
+  },
+  {
+    "difficulty": 920,
+    "word1": "inchoate",
+    "def1": "just begun and so not fully formed or developed",
+    "word2": "nascent",
+    "def2": "coming into existence; emerging"
+  },
+  {
+    "difficulty": 930,
+    "word1": "inimical",
+    "def1": "tending to obstruct or harm; hostile",
+    "word2": "adversarial",
+    "def2": "involving or characterized by conflict or opposition"
+  },
+  {
+    "difficulty": 940,
+    "word1": "deleterious",
+    "def1": "causing harm or damage",
+    "word2": "detrimental",
+    "def2": "tending to cause harm; harmful"
+  },
+  {
+    "difficulty": 950,
+    "word1": "perspicacious",
+    "def1": "having a ready insight into and understanding of things",
+    "word2": "percipient",
+    "def2": "having keen mental perception and understanding"
+  },
+  {
+    "difficulty": 960,
+    "word1": "obfuscate",
+    "def1": "make obscure, unclear, or unintelligible",
+    "word2": "becloud",
+    "def2": "to make unclear, confused, or muddled"
+  },
+  {
+    "difficulty": 970,
+    "word1": "sesquipedalian",
+    "def1": "characterized by long words; long-winded",
+    "word2": "polysyllabic",
+    "def2": "having multiple syllables; characterized by words of many syllables"
+  },
+  {
+    "difficulty": 980,
+    "word1": "parsimonious",
+    "def1": "unwilling to spend money or use resources; stingy or frugal",
+    "word2": "penurious",
+    "def2": "extremely unwilling to spend money; miserly"
+  },
+  {
+    "difficulty": 990,
+    "word1": "pulchritude",
+    "def1": "beauty",
+    "word2": "comeliness",
+    "def2": "physical attractiveness, especially of the face"
+  },
+  {
+    "difficulty": 1000,
+    "word1": "saturnine",
+    "def1": "slow to react; gloomy; sullen",
+    "word2": "lugubrious",
+    "def2": "looking or sounding sad and dismal"
+  },
+  {
+    "difficulty": 1010,
+    "word1": "multifarious",
+    "def1": "many and of various types",
+    "word2": "manifold",
+    "def2": "numerous and varied; of many kinds"
+  },
+  {
+    "difficulty": 1020,
+    "word1": "quotidian",
+    "def1": "of or occurring every day; ordinary or everyday",
+    "word2": "diurnal",
+    "def2": "of or during the day; daily"
+  },
+  {
+    "difficulty": 1030,
+    "word1": "implacable",
+    "def1": "unable to be appeased or placated",
+    "word2": "inexorable",
+    "def2": "impossible to stop or prevent; relentless"
+  },
+  {
+    "difficulty": 1040,
+    "word1": "apocryphal",
+    "def1": "of doubtful authenticity, although widely circulated as being true",
+    "word2": "dubious",
+    "def2": "not to be relied upon; questionable"
+  },
+  {
+    "difficulty": 1050,
+    "word1": "chimerical",
+    "def1": "hoped for but illusory or impossible to achieve",
+    "word2": "fanciful",
+    "def2": "overimaginative and unrealistic"
+  },
+  {
+    "difficulty": 1060,
+    "word1": "desultory",
+    "def1": "lacking a plan, purpose, or enthusiasm",
+    "word2": "haphazard",
+    "def2": "lacking any obvious principle of organization"
+  },
+  {
+    "difficulty": 1070,
+    "word1": "contumacious",
+    "def1": "stubbornly disobedient; rebellious",
+    "word2": "insubordinate",
+    "def2": "defiant of authority; refusing to obey orders"
+  },
+  {
+    "difficulty": 1080,
+    "word1": "meretricious",
+    "def1": "apparently attractive but having no real value",
+    "word2": "tawdry",
+    "def2": "showy but cheap and of poor quality"
+  },
+  {
+    "difficulty": 1090,
+    "word1": "pellucid",
+    "def1": "translucently clear; easily understood",
+    "word2": "limpid",
+    "def2": "completely clear and transparent"
+  },
+  {
+    "difficulty": 1100,
+    "word1": "anfractuous",
+    "def1": "winding or circuitous; sinuous or tortuous",
+    "word2": "convoluted",
+    "def2": "extremely complex and difficult to follow"
+  }
+]
