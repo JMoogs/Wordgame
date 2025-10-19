@@ -5,18 +5,20 @@ use serde::{Deserialize, Serialize};
 fn main() {
     println!("Welcome to the word quiz game!");
     println!(
-        "You will be presented with a word, and 4 options to choose from. You must pick the word out of the options that is a synonym for the given word."
+        "You will be presented with a word and four options. Your task is to select the option that is a synonym of the given word."
     );
     println!("The game will get harder as you get words right, or easier as you get them wrong.");
-    println!("If you ever want to stop, type 'quit' or 'stop', and your score will be displayed.");
+    println!(
+        "If you ever want to stop, type 'quit', 'exit' or 'stop', and your score will be displayed."
+    );
     println!("Good luck!");
     println!();
 
-    // Set up rng
+    // Set up random number generator
     let mut rng = rand::rng();
 
     // Keep a list of played words so we don't repeat them
-    let played_questions: HashSet<Question> = HashSet::new();
+    let mut played_questions: HashSet<Question> = HashSet::new();
 
     let mut difficulty: u32 = 100;
     let mut range = 50;
@@ -45,25 +47,26 @@ fn main() {
             continue;
         }
 
-        // Get a random question from the filtered list
+        // Select a random question from the filtered list
         let question: &Question = filtered_questions.choose(&mut rng).unwrap();
 
-        let (main_word, synonym, options) = question.build_question(&filtered_questions);
+        let (main_word, synonym, options) = question.build_question(&filtered_questions, &mut rng);
 
-        println!("What is a synonym for the word: '{}'?", main_word);
+        println!("What is a synonym for the word '{}'?", main_word);
         for (i, option) in options.iter().enumerate() {
             println!("{}. {}", i + 1, option);
         }
         asked_questions += 1;
 
-        // Get user input and check if it's correct
-        // Loop until we get valid input
+        // Get user input and validate their answer
+        // Continue looping until we get valid input
         loop {
             let mut input = String::new();
             std::io::stdin().read_line(&mut input).unwrap();
 
             if input.trim().eq_ignore_ascii_case("quit")
                 || input.trim().eq_ignore_ascii_case("stop")
+                || input.trim().eq_ignore_ascii_case("exit")
             {
                 println!("Thanks for playing!");
                 // Subtract 1 from asked questions since we didn't answer this one
@@ -87,8 +90,8 @@ fn main() {
                         correct_answers += 1;
                     } else {
                         println!("Wrong! The correct answer was: {}", synonym);
-                        println!("Definition of {}: {}", question.word1, question.def1);
-                        println!("Definition of {}: {}", question.word2, question.def2);
+                        println!("Definition of '{}': {}", question.word1, question.def1);
+                        println!("Definition of '{}': {}", question.word2, question.def2);
                         difficulty = difficulty.saturating_sub(90);
                     }
                     break;
@@ -105,8 +108,8 @@ fn main() {
 
         println!();
 
-        // Add question to played questions
-        // played_questions.insert(question.clone());
+        // Add question to played questions to prevent repetition
+        played_questions.insert(question.clone());
     }
 }
 
@@ -126,35 +129,55 @@ struct Question {
 impl Question {
     // Build a question using word1 or word2 as the main word and the other as the synonym.
     // Return (main_word, synonym, all options)
-    fn build_question(&self, words: &Vec<Question>) -> (String, String, Vec<String>) {
-        let mut rng = rand::rng();
-
-        let main_word;
-        let synonym;
-        if rand::random() {
-            main_word = self.word1.clone();
-            synonym = self.word2.clone();
+    fn build_question(
+        &self,
+        words: &Vec<Question>,
+        rng: &mut impl rand::Rng,
+    ) -> (String, String, Vec<String>) {
+        // Randomly choose which word is the prompt and which is the correct answer
+        let (main_word, synonym) = if rand::random() {
+            (self.word1.clone(), self.word2.clone())
         } else {
-            main_word = self.word2.clone();
-            synonym = self.word1.clone();
-        }
+            (self.word2.clone(), self.word1.clone())
+        };
 
-        // Get 3 random options from the words list that are not the synonym
+        // Create options array with the correct answer
         let mut options = vec![synonym.clone()];
-        // Add 3 more options
-        let random_words = words.choose_multiple(&mut rng, 3);
-        let w: Vec<Question> = random_words.cloned().collect();
-        for word in w {
-            if rand::random() {
-                options.push(word.word1.clone());
+
+        // Select candidate words for wrong options
+        let random_words = words.choose_multiple(rng, 10).cloned().collect::<Vec<_>>();
+
+        // Add 3 more options that are not the same as the prompt word
+        let mut added = 0;
+        for word in random_words {
+            if added >= 3 {
+                break;
+            }
+
+            let candidate = if rand::random() {
+                word.word1.clone()
             } else {
-                options.push(word.word2.clone());
+                word.word2.clone()
+            };
+
+            // Skip if the candidate is the same as the main word (prompt) or already in options
+            if candidate != main_word && !options.contains(&candidate) {
+                options.push(candidate);
+                added += 1;
             }
         }
 
-        // Shuffle options
+        // If we couldn't find enough unique words, fill with placeholders
+        while options.len() < 4 {
+            let filler = format!("option{}", options.len());
+            if !options.contains(&filler) && filler != main_word {
+                options.push(filler);
+            }
+        }
+
+        // Shuffle options to randomize answer position
         use rand::seq::SliceRandom;
-        options.shuffle(&mut rng);
+        options.shuffle(rng);
 
         (main_word, synonym, options)
     }
