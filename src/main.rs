@@ -1,18 +1,19 @@
 use std::collections::HashSet;
+use std::io::{self, Write};
 
 use rand::seq::IndexedRandom;
 use serde::{Deserialize, Serialize};
 fn main() {
-    println!("Welcome to the word quiz game!");
+    println!("\n===================================");
+    println!("🎮  WELCOME TO THE WORD QUIZ GAME  🎮");
+    println!("===================================\n");
     println!(
         "You will be presented with a word and four options. Your task is to select the option that is a synonym of the given word."
     );
     println!("The game will get harder as you get words right, or easier as you get them wrong.");
-    println!(
-        "If you ever want to stop, type 'quit', 'exit' or 'stop', and your score will be displayed."
-    );
+    println!("If you ever want to stop, type 'quit' or 'stop', and your score will be displayed.");
     println!("Good luck!");
-    println!();
+    println!("\n-----------------------------------\n");
 
     // Set up random number generator
     let mut rng = rand::rng();
@@ -52,10 +53,18 @@ fn main() {
 
         let (main_word, synonym, options) = question.build_question(&filtered_questions, &mut rng);
 
-        println!("What is a synonym for the word '{}'?", main_word);
+        println!(
+            "\n📝 Question #{}: What is a synonym for the word '{}'?",
+            asked_questions + 1,
+            main_word
+        );
+        println!("-----------------------------------");
         for (i, option) in options.iter().enumerate() {
-            println!("{}. {}", i + 1, option);
+            println!("  {}. {}", i + 1, option);
         }
+        println!("-----------------------------------");
+        print!("Your answer (1-4): ");
+        io::stdout().flush().unwrap();
         asked_questions += 1;
 
         // Get user input and validate their answer
@@ -66,14 +75,22 @@ fn main() {
 
             if input.trim().eq_ignore_ascii_case("quit")
                 || input.trim().eq_ignore_ascii_case("stop")
-                || input.trim().eq_ignore_ascii_case("exit")
             {
+                println!("\n===================================");
+                println!("🏁  GAME OVER  🏁");
+                println!("===================================");
                 println!("Thanks for playing!");
                 // Subtract 1 from asked questions since we didn't answer this one
                 println!(
-                    "You answered {} out of {} questions correctly.",
+                    "You answered {} out of {} questions correctly. ({}%)",
                     correct_answers,
-                    asked_questions - 1
+                    asked_questions - 1,
+                    if asked_questions > 1 {
+                        (correct_answers as f32 * 100.0 / (asked_questions as f32 - 1.0)).round()
+                            as u32
+                    } else {
+                        0
+                    }
                 );
                 println!(
                     "Your final difficulty level was: {}. The maximum difficulty is 1100.",
@@ -85,28 +102,42 @@ fn main() {
             match input.trim().parse::<usize>() {
                 Ok(choice) if choice >= 1 && choice <= options.len() => {
                     if options[choice - 1] == synonym {
-                        println!("Correct!");
+                        println!("\n✓ Correct! ✓");
+                        println!("-----------------------------------");
+                        println!("Difficulty increased by 70 points");
                         difficulty += 70;
                         correct_answers += 1;
                     } else {
-                        println!("Wrong! The correct answer was: {}", synonym);
-                        println!("Definition of '{}': {}", question.word1, question.def1);
-                        println!("Definition of '{}': {}", question.word2, question.def2);
+                        println!("\n✗ Wrong! ✗");
+                        println!("-----------------------------------");
+                        println!("The correct answer was: {}", synonym);
+                        println!("\nDefinitions:");
+                        println!("• '{}': {}", question.word1, question.def1);
+                        println!("• '{}': {}", question.word2, question.def2);
+                        println!("-----------------------------------");
+                        println!("Difficulty decreased by 90 points");
                         difficulty = difficulty.saturating_sub(90);
                     }
                     break;
                 }
                 _ => {
-                    println!(
-                        "Invalid input. Please enter a number between 1 and {}.",
+                    print!(
+                        "⚠️  Invalid input. Please enter a number between 1 and {}: ",
                         options.len()
                     );
+                    io::stdout().flush().unwrap();
                     continue;
                 }
             }
         }
 
-        println!();
+        println!("\n===================================");
+        println!(
+            "Current score: {}/{} correct",
+            correct_answers, asked_questions
+        );
+        println!("Current difficulty: {}/1100", difficulty);
+        println!("===================================\n");
 
         // Add question to played questions to prevent repetition
         played_questions.insert(question.clone());
